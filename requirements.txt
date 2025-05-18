@@ -1,9 +1,29 @@
-streamlit==1.32.0
-pandas==2.2.1
-plotly==5.19.0
-folium==0.15.2
+# Base dependencies first
+numpy>=1.26.0
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Core data packages
+pandas>=2.2.0
+geopandas>=0.14.0
+
+# Visualization
+plotly==5.18.0
+folium>=0.19.6
 branca==0.7.0
+
+# Geospatial
+geopy>=2.2.0
 geojson==3.0.1
-numpy>=1.24.0
-openpyxl>=3.1.0  # For Excel file handling
-streamlit-folium>=0.15.0  # For better folium integration with streamlit 
+
+# Excel support
+openpyxl>=3.1.0
+
+# Web scraping (for vaccine map)
+selenium>=4.18.0
+webdriver-manager>=4.0.1
+beautifulsoup4>=4.12.0
+
+# Web app (install last because it has the most dependencies)
+streamlit==1.32.0
+streamlit-folium>=0.15.0 

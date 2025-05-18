@@ -7,6 +7,10 @@ from datetime import datetime, timedelta
 import plotly.io as pio
 import geopandas as gpd
 
+# At the top of your file, add this to get the project root directory
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+SHARED_DATA_PATH = os.path.join(PROJECT_ROOT, 'shared_data')
+
 # Page config
 st.set_page_config(
     page_title="Pet Pantry Client Map",
@@ -77,14 +81,15 @@ if not check_password():
 # Load data
 @st.cache_data
 def load_data():
-    if os.path.exists('processed_pantry_data.json'):
-        with open('processed_pantry_data.json', 'r') as f:
+    data_path = os.path.join(os.path.dirname(__file__), 'processed_pantry_data.json')
+    if os.path.exists(data_path):
+        with open(data_path, 'r') as f:
             return json.load(f)
     return []
 
 @st.cache_data
 def load_geojson():
-    geojson_path = '/Users/zaksprowls/Desktop/SPCA Maps/shared_data/erie_survey_zips.geojson'
+    geojson_path = os.path.join(SHARED_DATA_PATH, 'erie_survey_zips.geojson')
     if os.path.exists(geojson_path):
         return gpd.read_file(geojson_path)
     return None
@@ -159,8 +164,8 @@ filtered_df = df[df['date'].dt.date <= selected_date]
 
 # Create map based on selected type
 if map_type == "Choropleth":
-    # Load GeoJSON data
-    with open('/Users/zaksprowls/Desktop/SPCA Maps/shared_data/erie_survey_zips.geojson', 'r') as f:
+    geojson_path = os.path.join(SHARED_DATA_PATH, 'erie_survey_zips.geojson')
+    with open(geojson_path, 'r') as f:
         geojson_data = json.load(f)
     
     # Filter CSV data by date

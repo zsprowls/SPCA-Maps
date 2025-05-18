@@ -89,15 +89,51 @@ st.markdown("This map shows the distribution of vaccine clinic attendees across 
 # Read the data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('combined_survey_results.csv')
-    # Clean up zip codes
-    df['zip_code'] = df['What is your zip code?'].astype(str).str[:5]
-    # Replace 'nan' strings with actual NaN
-    df['zip_code'] = df['zip_code'].replace('nan', np.nan)
-    return df
+    try:
+        # Try to load the correct file
+        csv_path = os.path.join(os.path.dirname(__file__), 'combined_survey_results.csv')
+        if not os.path.exists(csv_path):
+            st.error(f"""
+                Could not find the survey data file at: {csv_path}
+                
+                If you're using Git LFS, you need to:
+                1. Install Git LFS: brew install git-lfs
+                2. Initialize it: git lfs install
+                3. Pull the files: git lfs pull
+                """)
+            st.stop()
+            
+        df = pd.read_csv(csv_path)
+        
+        # Clean up zip codes
+        df['zip_code'] = df['What is your zip code?'].astype(str).str[:5]
+        df['zip_code'] = df['zip_code'].replace('nan', np.nan)
+        return df
+        
+    except Exception as e:
+        st.error(f"Error loading data: {str(e)}")
+        st.stop()
 
 def load_geojson():
-    return gpd.read_file('/Users/zaksprowls/Desktop/SPCA Maps/shared_data/erie_survey_zips.geojson')
+    try:
+        # Use the same relative path structure as the pantry map
+        geojson_path = os.path.join('..', 'shared_data', 'erie_survey_zips.geojson')
+        
+        if not os.path.exists(geojson_path):
+            st.error(f"""
+                Could not find the GeoJSON file at: {geojson_path}
+                
+                Make sure you're running the script from the 'Vaccine Heat Map' directory.
+                The file should be at: SPCA-Maps/shared_data/erie_survey_zips.geojson
+                """)
+            st.stop()
+            
+        return gpd.read_file(geojson_path)
+        
+    except Exception as e:
+        st.error(f"Error loading GeoJSON: {str(e)}")
+        st.write("Current working directory:", os.getcwd())  # Debug info
+        st.stop()
 
 df = load_data()
 geo = load_geojson()
