@@ -1,0 +1,873 @@
+﻿Person ID,Name Last,Name First,Association Creation Date,Address Type,Street Address,Unit Number,City,City Alias,Province,Country,Postal Code
+P0000646257,MARCINKOWSKI,GARY,1/16/24,Temporary,21 UN Road,,Lake View,Lake View,New York,United States,14085
+P0000650616,CALERI,CLAUDINE,8/24/23,Home,80 GIERLACH Street,,Buffalo,Sloan,New York,United States,14212
+P0000658878,MOLINE,DEBBIE,1/9/24,Home,175 TRISTAN LANE,,Buffalo,Williamsville,New York,United States,14221
+P0000660046,SMITH,LEO,4/18/22,Home,2260 LANGFORD RD,,North Collins,,New York,United States,14111
+P0000660557,CIMINISE,LYNDA,12/4/24,Home,753 PARKER,,Buffalo,,New York,United States,14223
+P0000661110,CASH,JUANITA,2/9/23,Home,1115 Walden Ave,UPPER #2,Buffalo,Buffalo,New York,United States,14211
+P0000664482,ALTSCHAFT,BEVERLY,11/4/24,Home,3086 S CAMBRIDGE Square,,Buffalo,Buffalo,New York,United States,14219
+P0000666254,HANSEN,ROBERT,9/10/22,Home,82 PRESTON Road,,Buffalo,Cheektowaga,New York,United States,14215
+P0000667141,LANGDON,KRISTA,1/3/22,Home,52 Twain Court,,Tonawanda,Tonawanda,New York,United States,14150
+P0000669917,CARNAHAN,CLARENCE,11/11/24,Home,33 ARNOLD,,Buffalo,,New York,United States,14213
+P0000670395,MULLETT,MADELEINE,9/10/22,Home,68 SPAULDING STREET,,Buffalo,,New York,United States,14220
+P0000671846,SCHRIMMEL,DANIELLE,11/4/24,Home,297 Eastwood Ave,,Angola,Angola,New York,United States,14006
+P0000679481,FREEMAN,CHERYL,11/11/24,Home,12905 Jennings road,,Collins,Collins,New York,United States,14034
+P0000685200,COOKE,JACQUELINE G,3/18/25,Home,4 DELRAY Drive,,Buffalo,Cheektowaga,New York,United States,14225
+P0000693118,HEISS,MARIE,2/9/23,Home,106 SPANN Street,,Buffalo,Buffalo,New York,United States,14206
+P0000701381,SHTAYYEH,DEBORAH,8/24/23,Home,102 FRANCIS AVE,,Buffalo,Sloan,New York,United States,14212
+P0000701741,MANNING,DONNA M,3/30/23,Home,130 NORTHCREST,,Buffalo,Cheektowaga,New York,United States,14225
+P0000703793,ZUROWSKI,MICHELLE M,9/15/23,Home,199 PARKDALE AVE,4,Buffalo,Buffalo,New York,United States,14213
+P0000705938,MORAN,BARBARA A.,2/2/22,Home,93 PULASKI Street,,Buffalo,Buffalo,New York,United States,14206
+P0000707469,GREENE,SHAUNA,10/7/24,Home,2395 HEMLOCK Road,,Eden,Eden,New York,United States,14057
+P0000711061,BAER,MELANIE,2/20/11,Home,279 BABCOCK Street,FRONT,Buffalo,Buffalo,New York,United States,14210
+P0000711977,AUST,LISA,1/12/25,Home,15 PENWOOD Drive,,Buffalo,Cheektowaga,New York,United States,14227
+P0000719101,BAYLEY,JAMIE,1/16/24,Home,227 HINDS STREET,,Tonawanda,Tonawanda,New York,United States,14150
+P0000721810,SCARVER,DARNELL,2/18/25,Home,1388 E. DELAVAN AVE,,Buffalo,Buffalo,New York,United States,14215
+P0000722162,JABLONSKI,CARY,1/7/25,Home,18 SANDSTONE DR,,Buffalo,Cheektowaga,New York,United States,14225
+P0000726740,HUBBARD,KELLY,11/5/24,Home,122 COLLINS AVE.,,Buffalo,Buffalo,New York,United States,14224
+P0000730409,BATCHO,JENNIFER L,3/4/25,Home,17 BAYNES,,Buffalo,,New York,United States,14213
+P0000730431,MOORE,SIDNEY,9/12/23,Home,15 HUMBER ST,,Buffalo,,New York,United States,14215
+P0000732069,PAGE,ASHLEY,8/24/23,Home,12562 VERSAILLES PLANK RD,,Lawtons,Lawtons,New York,United States,14091
+P0000733637,PASCHALL,MELINDA,11/3/24,Home,118 SHEPARD Avenue,#UPFT,Buffalo,Buffalo,New York,United States,14217
+P0000736409,ERTEL,GARY,5/12/11,Home,39 TWAIN Court,,Tonawanda,Tonawanda,New York,United States,14150
+P0000736679,DUSON,SHIRLEY,12/30/24,Home,44 CORNWALL Avenue,Lower,Buffalo,Buffalo,New York,United States,14215
+P0000740442,HEIM,JENNIFER,1/16/24,Home,566 LISBON AVENUE,,Buffalo,Buffalo,New York,United States,14215
+P0000740590,BEILMAN,PAUL,3/11/25,Home,1295 ERIE Street,,North Tonawanda,Tonawanda,New York,United States,14120
+P0000741077,UPPER,WENDY,2/18/25,Home,8 HERTEL AVE,,Buffalo,Buffalo,New York,United States,14207
+P0000743319,ADINOLFI,MARISSA,2/20/23,Home,151 HENDERSON Avenue,,Buffalo,Kenmore,New York,United States,14217
+P0000750123,HENTON,SHAREMA,12/22/20,Home,237 HAGEN STREET,,Buffalo,Buffalo,New York,United States,14215
+P0000750563,GHANI,DANIELLE,2/9/23,Home,123 AZALEA Drive,,Buffalo,West Seneca,New York,United States,14224
+P0000756166,MUHARRAM,GEORAAN,7/2/24,Home,36 HEWITT AVE,Lower,Buffalo,Buffalo,New York,United States,14215
+P0000756753,BOROWIAK,LAURIE,2/20/23,Home,22 FRIEND STREET,,Angola,Angola,New York,United States,14006
+P0000756847,CASSICK,CHANTELL,11/11/24,Previous,35 ALBION,,Amherst,Getzville,New York,United States,14226
+P0000759699,CLEMONS,DAYSHA,1/12/25,Previous,898 N HAMPTON ST,,Buffalo,,New York,United States,14211
+P0000760283,HARI,CHERYL,2/9/23,Home,98 Timon Street,,Buffalo,Buffalo,New York,United States,14214
+P0000762150,FURST,SUSAN,11/11/24,Home,153 BEREHAVEN DR,LEFT,Buffalo,Buffalo,New York,United States,14228
+P0000765991,MATRE,JENNIFER,3/22/23,Home,307 PARAMOUNT Parkway,,Tonawanda,,New York,United States,14223
+P0000766606,SIMPSON,HEATHER A,2/9/23,Home,66 HOLBROOK STREET,,Buffalo,Buffalo,New York,United States,14218
+P0000766685,GROTH,ALBERT,3/9/22,Home,23 Krakrow,,Buffalo,Lackawanna,New York,United States,14218
+P0000767478,PAWLOWSKI,SARAH H,9/20/22,Home,4870 WILLIAM ST,,Lancaster,,New York,United States,14086
+P0001280030,BROWN,HEIDI,9/10/22,Home,164 NORMAL Avenue,REAR,Buffalo,Buffalo,New York,United States,14213
+P0001290774,QUINN,PATRICK,11/12/24,Home,3295 HOPKINS Road,,Buffalo,Amherst,New York,United States,14228
+P0001309541,HELLMANN,DAVID,11/5/24,Home,14 KENNEDY Road,2H,Buffalo,Cheektowaga,New York,United States,14227
+P0001801904,ZIOLKOWSKI,KELLY M,11/10/24,Home,1233 TONAWANDA Street,,Buffalo,,New York,United States,14207
+P0002002202,MANGINE,GARY,2/21/23,Temporary,109 KIMBERLY LANE,,Buffalo,Lackawanna,New York,United States,14218
+P0002055428,HARTLEY,MEGAN E,2/9/23,Home,1140 Eggert Rd,,Buffalo,Amherst,New York,United States,14226
+P0002649378,CUMMINGS,KRISTEN,11/11/24,Home,240 EAST Avenue,,Akron,,New York,United States,14001
+P0002651850,KANIA,AMY,1/12/25,Home,24 Kopernik St,,Buffalo,Buffalo,New York,United States,14206
+P0003163246,LILLIS,DONALD,10/16/23,Home,109 GRANDVIEW Avenue,,Buffalo,Buffalo,New York,United States,14223
+P0003349571,PECORARO,CARL,6/28/23,Home,240 14TH Street,,Buffalo,,New York,United States,14213
+P0003540826,TOMCZAK,JOSEPH,1/12/25,Home,281 Weimar St,,Buffalo,Buffalo,New York,United States,14206
+P0003660219,ZAWADZKI,RANDY,1/30/23,Previous,39 KENT Avenue,,Buffalo,Buffalo,New York,United States,14212
+P0003896756,MCWHITE,LINDSEY,1/20/22,Home,416 PARK CLUB Lane,,Buffalo,Williamsville,New York,United States,14221
+P0004048946,BROOKS,MICHAEL G,3/23/23,Home,81 DAVEY Street,,Buffalo,,New York,United States,14206
+P0005053277,LAWRENCE,JAMIE,1/12/25,Home,6 KUHN Road,,Buffalo,Cheektowaga,New York,United States,14225
+P0005075369,BROWN,CHRIS,11/11/24,Home,279 HAZELWOOD Street,,Buffalo,Buffalo,New York,United States,14215
+P0005077691,MAERTEN,AUDREY,1/12/25,Home,227 Gold St,,Buffalo,Buffalo,New York,United States,14206
+P0005271720,JACKSON,JENNIFER,9/10/22,Home,65 TUDOR Road,,Buffalo,Cheektowaga,New York,United States,14215
+P0005715990,Kowalczewski,Michele,11/3/24,Home,99 LIVINGSTON STREET,,Buffalo,Buffalo,New York,United States,14213
+P0006690748,BAEZ-HINCHLIFFE,YOLANDA,1/12/25,Home,33 WILLOWLAWN Parkway,,Buffalo,Cheektowaga,New York,United States,14206
+P0006733575,CLABEAUX,MICHELLE,2/8/24,Home,320 OAKMONT AVENUE,,Buffalo,Buffalo,New York,United States,14215
+P0006783269,WATSON,BETINA,1/8/21,Home,252 SHUMWAY Street,,Buffalo,Buffalo,New York,United States,14212
+P0006826204,WASZKIELEWICZ,GINA,9/10/22,Home,30 RICHFIELD Avenue,A1,Buffalo,Buffalo,New York,United States,14207
+P0006840448,MANNION,CHARLENE,1/28/25,Home,53 Pavonia St,,Buffalo,Buffalo,New York,United States,14207
+P0007356434,MILLER,LISA,2/21/23,Home,3787 DARTMOUTH Street,,Hamburg,Hamburg,New York,United States,14075
+P0007496787,WIECH,JESSICA,11/10/24,Home,22 E DRULLARD Avenue,,Lancaster,Lancaster,New York,United States,14086
+P0007513167,LUNA,ASHLEY,11/3/24,Home,55 RYAN ST,,Buffalo,Buffalo,New York,United States,14210
+P0007531017,KUBISTY,JACQUELINE,8/24/23,Home,70 GLIDDEN Street,,Buffalo,Buffalo,New York,United States,14206
+P0007841868,DANIELS,ANN,3/9/22,Home,25 Eller Avenue,,Buffalo,Buffalo,New York,United States,14211
+P0007878071,ROBINSON,LATASHA M,2/13/10,Home,150 OAKMONT,,Buffalo,Buffalo,New York,United States,14215
+P0008313003,HELFRICH,SHERRY,3/26/24,Home,470 W FERRY Street,,Buffalo,Buffalo,New York,United States,14213
+P0008333094,CUMMINGS,FRANKIE,11/10/24,Home,284 Ludington St,LOWR/FRT,Buffalo,Buffalo,New York,United States,14206
+P0008947944,BONATI,DEBORAH E,1/16/24,Home,113 GREENE Street,,Buffalo,Buffalo,New York,United States,14206
+P0009030159,JORDAN,TARA,10/12/23,Home,31 KENT Street,2,Buffalo,Buffalo,New York,United States,14212
+P0009334907,RUSZALA,MALENE,12/28/24,Previous,710 MAPLE Road,,East Aurora,East Aurora,New York,United States,14052
+P0009373812,APONTE,DINAH,9/16/10,Home,230 NIAGARA ST,303,Buffalo,Buffalo,New York,United States,14201
+P0009492730,MCCLURE,LORRAINE,9/15/23,Home,125 ALDRICH Place,,Buffalo,Buffalo,New York,United States,14220
+P0009531098,MCNALLY,PHIL,11/12/24,Home,60 Kibler Dr,,Depew,Depew,New York,United States,14043
+P0009989479,CARTONIA,ELIZABETH MARY,11/12/24,Home,16 ALMA AVENUE,,Buffalo,Buffalo,New York,United States,14215
+P0010481389,Allen,Donald,11/10/24,Home,87 Warsaw Ave,,Buffalo,Buffalo,New York,United States,14218
+P0010498316,RIVERA,MARGARITA,1/12/25,Home,69 Hirschbeck St,,Buffalo,Buffalo,New York,United States,14212
+P0010498639,KELLY,BEVERLY,2/2/22,Home,123 HEDLEY Street,,Buffalo,Cheektowaga,New York,United States,14206
+P0010517857,DIPIETRO,DONNA,11/12/24,Home,55 MELROY Avenue,310,Buffalo,Lackawanna,New York,United States,14218
+P0010529145,HILL,DARRYL,4/9/11,Home,210 STEVENS Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0010620468,HEFLIN,LEROY,1/16/24,Home,307 HEMPSTEAD Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0010631946,HOLLANDER,AUDRA,2/21/23,Home,131 MEADOW Place,A,Buffalo,Cheektowaga,New York,United States,14225
+P0010911748,WOODSON,DELORES,6/21/11,Home,245 NORTH STREET,002,Buffalo,,New York,United States,14201
+P0010983461,MOHL,LISA,7/5/11,Home,20 SANDSTONE Drive,,Buffalo,Cheektowaga,New York,United States,14225
+P0011013111,GONZALEZ,REFUGIO,11/11/24,Home,5714 Otto Park Pl,,Lockport,Lockport,New York,United States,14094
+P0011128222,ALLOY,CHARLES,11/11/24,Home,1677 COLVIN Boulevard,,Tonawanda,Tonawanda,New York,United States,14150
+P0011223300,TREAT,SUSAN,2/9/23,Home,16 MOYLE AVENUE,FRONT,Tonawanda,Tonawanda,New York,United States,14150
+P0011425588,TORRES,WILLIAM,11/12/24,Home,44 Jasper Parrish Dr,D,Buffalo,Buffalo,New York,United States,14207
+P0011649173,HARRIS,NAKITA,11/21/24,Home,106 FAY street,,Buffalo,Buffalo,New York,United States,14211
+P0011741659,THOMAS,STEPHANIE M,11/4/24,Home,140 KAMPER Avenue,,Buffalo,Buffalo,New York,United States,14210
+P0011973069,WILLIAMSON,LEVELL,11/11/24,Previous,96 LEMON Street,LOWER,Buffalo,Buffalo,New York,United States,14204
+P0012189484,KLAUSEN,KRISTINA,7/27/23,Home,2 Raintree Island,,Tonawanda,Tonawanda,New York,United States,14150
+P0012894624,GREEN,JERWAYNE,6/6/22,Home,108 HARLEM ROAD,,Buffalo,West Seneca,New York,United States,14224
+P0012980484,ROBINSON,PETER,9/15/23,Home,560 LASALLE Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0013221587,WILCOX,TRACY,11/4/24,Home,68 HAGEN Avenue,,North Tonawanda,Tonawanda,New York,United States,14120
+P0013625888,DAVIS,MILTON,11/11/24,Home,277 Mills St,,Buffalo,Buffalo,New York,United States,14211
+P0014062108,WASHINGTON,TAMIKA,11/4/24,Home,493 Dartmouth Ave,,Buffalo,Buffalo,New York,United States,14215
+P0014319205,BLOCK,BRIDGET,11/11/24,Home,1081 Orchard Park Rd.,,West Seneca,Buffalo,New York,United States,14224
+P0014971920,RAUTENSTRAUCH,HEATHER,11/11/24,Home,8 Glor St,,Buffalo,Buffalo,New York,United States,14207
+P0015107213,JONES,PATRICK,11/12/24,Home,81 Woodell Ave,B,Buffalo,Buffalo,New York,United States,14211
+P0015616705,MARSOWICZ,KATHY,6/13/22,Home,31 BROAD Street,,Buffalo,Cheektowaga,New York,United States,14225
+P0015715449,MASTERSON,WILLIAM,2/9/23,Home,2340 SENECA Street,,Buffalo,Buffalo,New York,United States,14210
+P0015833135,THOMAS,DEBORAH,11/11/24,Home,81 Woodell Ave,,Buffalo,Buffalo,New York,United States,14211
+P0016153530,BERGMAN,JENNIFER,10/19/23,Home,76 RAINTREE ISLAND,7,Tonawanda,Tonawanda,New York,United States,14150
+P0016253093,BENDER,KIMBERLY,12/30/24,Home,20 Cayuga Blvd,17,Depew,Depew,New York,United States,14043
+P0016407237,CRAVATTA,DENINE,9/8/22,Home,135 RYAN Street,,Buffalo,Buffalo,New York,United States,14210
+P0016504006,HARMON,WILLETTA,9/25/24,Home,309 CHELSEA Place,,Buffalo,Buffalo,New York,United States,14215
+P0016564106,NEIBERT,DONNA,1/16/24,Home,80 Woltz Ave,FRONT,Buffalo,Buffalo,New York,United States,14212
+P0016696891,SANTOS,JAIME,12/16/24,Home,98 CONNELLY Avenue,1,Buffalo,Buffalo,New York,United States,14215
+P0016696912,WITTMEYER,AMANDA,11/12/24,Previous,1842 SENECA Street,,Buffalo,Buffalo,New York,United States,14210
+P0016811374,SCHMIGIEL,DANIELLE,11/12/24,Home,1371 Kensington Ave,Upper,Buffalo,Buffalo,New York,United States,14215
+P0017186373,KOZANECKI,JAMIE,1/12/25,Home,4382 Clinton St,,West Seneca,Buffalo,New York,United States,14224
+P0017687219,WEBSTER,KELLY,1/12/25,Home,161 Woodside Ave,,Buffalo,Buffalo,New York,United States,14210
+P0017745947,GODINHO,STEVEN,1/3/22,Home,16 10TH STREET,,Buffalo,Buffalo,New York,United States,14201
+P0017750994,MCNAMARA,MEGAN,2/4/25,Home,9 FORRESTAL LN,4,Buffalo,West Seneca,New York,United States,14210
+P0017978281,NICPON,JENNIFER,11/11/24,Home,466 WEIMAR ST,,Buffalo,Buffalo,New York,United States,14206
+P0018162603,GREENE,PATRICIA,2/9/23,Temporary,64 OCONNELL AVENUE,3,Buffalo,Buffalo,New York,United States,14204
+P0018187439,COURTNEY,MEGAN,1/22/22,Home,219 KIRKWOOD Drive,,Buffalo,West Seneca,New York,United States,14224
+P0018296718,MEZA THOMPSON,DEANA,2/4/25,Home,147 MARINE DRIVE,11 E,Buffalo,Buffalo,New York,United States,14202
+P0018719745,VAN ORD,AMY,2/18/25,Home,13 Ruhland Ave,,Buffalo,Buffalo,New York,United States,14211
+P0019365239,PATERSON,WENDY,2/21/23,Home,447 Southside Parkway,,Buffalo,Buffalo,New York,United States,14210
+P0019461543,STEPHENS,ARNETTA,2/18/25,Home,52 COLFAX AVE,,Buffalo,Buffalo,New York,United States,14215
+P0019559107,KRAMER,ANGELA,1/12/25,Home,172 South Seine Drive,,Buffalo,Buffalo,New York,United States,14227
+P0021036761,CLARK,PATTI A,11/30/23,Home,2969 GEORGE URBAN Boulevard,,Depew,Depew,New York,United States,14043
+P0021787562,Martinez,Alexis,2/4/25,Home,41 SHELLEY CT,,Tonawanda,Tonawanda,New York,United States,14150
+P0021805443,HAMILTON,KARA,11/12/24,Home,70 ARDEN Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0021817332,HELMBRECHT,LAUREN,11/12/24,Home,11380 SPRINGVILLE BOSTON Road,,East Concord,East Concord,New York,United States,14055
+P0021830879,HAWKINS,CHRISTINA,7/27/23,Home,77 EDSON Street,LOWER,Buffalo,Buffalo,New York,United States,14210
+P0021945935,POINDEXTER,JAYETTE,2/21/23,Home,75 SCHRECK Avenue,LOWER,Buffalo,Buffalo,New York,United States,14215
+P0022423119,Baltes,Christina,11/4/24,Home,495 Center Road,,Buffalo,Buffalo,New York,United States,14224
+P0022855928,MILLER,BETH,11/5/24,Home,146 Bloomfield,,Buffalo,Buffalo,New York,United States,14220
+P0022992781,DiFULVIO,KAREN,8/13/19,Home,1143 WALDEN Avenue,,Buffalo,Buffalo,New York,United States,14211
+P0022992809,QUEER,GERALD,8/25/15,Home,32 ROLAND Avenue,,Buffalo,Lackawanna,New York,United States,14218
+P0023275752,MELIDONA,JOHN,6/13/22,Home,37 LEWIS Street,,Buffalo,Buffalo,New York,United States,14206
+P0023952340,MCFARLAND,CHERYL,1/16/24,Home,20 KEVIN Street,,Buffalo,Lackawanna,New York,United States,14218
+P0023992250,LIPSCOMB,LAKISHA,11/12/24,Home,222 Oakmont Ave,,Buffalo,Buffalo,New York,United States,14215
+P0024091915,MAYNARD,NELLIETA,10/16/23,Home,473 HOPKINS Street,,Buffalo,Buffalo,New York,United States,14220
+P0024578904,KIRKWOOD,EDWARD,9/22/22,Home,347 SHIRLEY Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0025045600,Rodriguez,John,6/7/23,Home,274 Delaware Avenue,503,Buffalo,Buffalo,New York,United States,14202
+P0025106092,RODRIGUEZ,YANIRO,10/16/23,Home,13 SIBERLING DR,,Buffalo,Cheektowaga,New York,United States,14225
+P0025135564,SETLOCK,COLIN,1/9/24,Home,1555 BOIES Road,,East Aurora,East Aurora,New York,United States,14052
+P0025851279,Pinzone,Sarah,2/21/23,Home,6 OAK DR,,Hopewell Junction,Hopewell Junction,New York,United States,12533
+P0026034562,MUSZYNSKI,KEITH,6/7/21,Home,169 EMPORIUM Street,,Buffalo,West Seneca,New York,United States,14224
+P0026133172,DEMBSKI,LAURA,9/8/22,Home,16 Samuel Dr,,Buffalo,Cheektowaga,New York,United States,14225
+P0026277709,SOLOMON,SHEILA,9/15/23,Home,255 LANGNER ROAD,,Buffalo,Buffalo,New York,United States,14224
+P0026858589,JAMES,SHAMEACA,9/10/22,Home,194 HAGEN ST,,Buffalo,Buffalo,New York,United States,14215
+P0027068055,PERRY,KENNETH,6/13/22,Home,23 WASHINGTON Avenue,,Buffalo,Buffalo,New York,United States,14217
+P0027600545,DEPPA,DANIELLE,11/5/24,Home,4504 UNION Road,,Buffalo,Cheektowaga,New York,United States,14225
+P0027659457,Turner,Ashley,11/4/24,Home,69 FRENCH LEA RD,,Buffalo,Buffalo,New York,United States,14224
+P0027662587,MCDONALD,THERESA,7/27/23,Home,65 FIRESTONE Street,,Buffalo,Lackawanna,New York,United States,14218
+P0027975042,ELLIOTT,TAMMY,11/10/24,Home,129 Harvard Ave,,Depew,Depew,New York,United States,14043
+P0028058362,BRACIKOWSKI,Ronald,7/27/23,Home,343 MINERAL SPRINGS Road,,Buffalo,Buffalo,New York,United States,14210
+P0028126736,MANCUSO,STACEY,9/26/24,Home,29 LESLIE DRIVE,,Akron,Akron,New York,United States,14001
+P0028207841,MCINTOSH,ALEXANDER,1/16/24,Home,968 WALDEN AVE,,Buffalo,Buffalo,New York,United States,14221
+P0028897074,KOHLER,SUSAN,1/14/25,Home,96 ROSS AVE,,Buffalo,Buffalo,New York,United States,14207
+P0029368324,Gostomski,Sheri,3/11/22,Home,29 Boswell Place,,Tonawanda,Tonawanda,New York,United States,14150
+P0029387321,STRONG,ERIC,12/2/17,Home,6 SAWYER AVE,,Lancaster,Lancaster,New York,United States,14086
+P0029569005,WARD,RUBY,8/24/23,Home,61 DINGENS Street,UP,Buffalo,Buffalo,New York,United States,14206
+P0029656371,BARROWS,KRYSTLE,3/4/25,Home,44 GORSKI Street,REAR,Buffalo,Buffalo,New York,United States,14206
+P0029886219,DEGRAAFF,ANN,11/4/24,Previous,28 LYMAN Street,,Buffalo,Buffalo,New York,United States,14206
+P0029902973,BECKER,MARY JO,3/11/25,Home,3801 CORNELL Street,,Hamburg,Hamburg,New York,United States,14075
+P0030038224,Howard,Andrea,7/20/23,Home,278 Fenton Street,,Buffalo,Buffalo,New York,United States,14206
+P0030370635,Schmigiel,Jennifer,10/5/21,Home,54 FENNIMORE AVE,,Buffalo,Buffalo,New York,United States,14215
+P0030414747,LUBECKI,ANGELA,2/21/23,Home,93 BLAINE AVENUE,,Buffalo,Buffalo,New York,United States,14208
+P0030964377,Littleton-Melvin,Breonna,9/15/23,Home,115 Phyllis Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0031277171,JAVIER,MARLENE,11/4/24,Home,290 Bedford Avenue,,Buffalo,Buffalo,New York,United States,14216
+P0031627121,Space,Deborah,10/16/23,Home,28 Williamstowne Court,8,Buffalo,Buffalo,New York,United States,14227
+P0031707662,KOEPPEL,JILLIAN,3/9/22,Home,164 EMPORIUM Avenue,,Buffalo,Buffalo,New York,United States,14224
+P0031787497,FURMAN,LYNN,3/23/23,Home,808 WILLET Road,,Buffalo,Lackawanna,New York,United States,14218
+P0031795263,Hernandez,Bianca,11/11/24,Home,19 Krakow St,,Buffalo,Buffalo,New York,United States,14206
+P0031928994,Hanson,Kenneth,5/11/22,Home,77 Carefree Lane,,Buffalo,Buffalo,New York,United States,14227
+P0031954388,BENKLEMAN,BRENDA,3/11/25,Home,30 SHANLEY Street,,Buffalo,Cheektowaga,New York,United States,14206
+P0031982099,Catania,Raymond,1/16/24,Home,87 Peace Street,lower,Buffalo,Buffalo,New York,United States,14211
+P0032093100,Thompson,Maurice,6/13/22,Home,134 French Street,,Buffalo,Buffalo,New York,United States,14211
+P0032299551,Lowmack,Edwin,11/11/24,Home,505 Elmowwd Ave,,Buffalo,Buffalo,New York,United States,14201
+P0032314107,ANDERSON,JANAY,3/4/25,Home,70 BURGARD PL,,Buffalo,Buffalo,New York,United States,14211
+P0032625373,PHILLIPS,JENNIFER,10/12/23,Home,326 Edison Ave,385,,Buffalo,New York,United States,14219
+P0032627318,GROSS,JEREMY,9/15/23,Home,106 TINDLE Avenue,,Buffalo,Buffalo,New York,United States,14224
+P0032645868,Anderson,Sandra,3/4/25,Home,72 Thatcher Avenue,Lower,Buffalo,Buffalo,New York,United States,14215
+P0032700108,CRUZ,CRISTIAN,3/25/25,Home,186 N. CLAREMONT AVE,,Buffalo,Buffalo,New York,United States,14222
+P0032782352,KEEM,NICHOLE,1/14/25,Home,92 Humason,,Buffalo,Buffalo,New York,United States,14211
+P0032886258,MCNALLY,PHILIP,1/16/24,Home,60 KIBLER Road,,Depew,Depew,New York,United States,14043
+P0033255842,PIERCE,PAMELA,9/20/22,Home,4668 CHAPMAN Parkway,,Hamburg,Hamburg,New York,United States,14075
+P0033360184,EVERT,JAYNE,11/4/24,Home,20 VULCAN ST,,Buffalo,Buffalo,New York,United States,14207
+P0033402317,Brewster,Tammy,11/3/24,Home,15 Gerald Avenue,Upper,Buffalo,Buffalo,New York,United States,14215
+P0033471072,LEYH,GAIL,10/6/24,Home,4221 MUNDY Street,,Buffalo,Blasdell,New York,United States,14219
+P0033532665,Andrix,James,1/9/24,Home,24 Tudor Road,,Buffalo,Cheektowaga,New York,United States,14215
+P0033713084,JOHNSON,HENRIETTA,1/3/22,Home,264 LOCUST Street,,,Buffalo,New York,United States,14204
+P0033724938,WOLSKI,MELISSA,11/11/24,Home,7789 Seneca St,,East Aurora,East Aurora,New York,United States,14052
+P0033870821,Hairston,Crystal,11/11/24,Home,50 Humber Ave,5,Buffalo,Buffalo,New York,United States,14215
+P0033871323,Harris,Pamela,4/18/22,Temporary,465 GRANT STREET,215,Buffalo,Buffalo,New York,United States,14213
+P0033921653,MANKA,MARGARET,11/30/23,Home,3083 MAIN STREET,,Buffalo,Buffalo,New York,United States,14214
+P0033940185,PIECZYNSKI,DAVID,4/26/21,Home,72 PULASKI STREET,lower,Buffalo,Buffalo,New York,United States,14206
+P0034298010,Miller,Maryann,2/4/25,Home,8 Hertel Ave,1009,Buffalo,Buffalo,New York,United States,14207
+P0034334320,JOYCE,MICHAEL,1/7/25,Home,46 GORSKI ST,,Buffalo,Buffalo,New York,United States,14206
+P0034782316,Mohammed,Fatima,4/14/21,Home,352 Austin Street,,Buffalo,Buffalo,New York,United States,14207
+P0034826783,Linton,Lisa,5/13/25,Home,155 Princeton Court,,Buffalo,Cheektowaga,New York,United States,14225
+P0035467611,DUTCH,PAMELA,12/22/20,Home,1064 WEST AVE,,Buffalo,Buffalo,New York,United States,14213
+P0035468154,ROEUST,PATRICIA,3/30/23,Home,123 GREENE ST,LOWER REAR,Buffalo,Buffalo,New York,United States,14206
+P0036439309,URBAN,CAROLANN,3/18/24,Home,96 LORRAINE AVE,,Buffalo,Buffalo,New York,United States,14220
+P0036459223,KAITANOWSKI,STEVEN,3/30/23,Home,112 GILBERT ST,REAR,Buffalo,Buffalo,New York,United States,14206
+P0036493885,CIESLA,TERA,2/20/23,Home,19 ZELMER ST,,Buffalo,Buffalo,New York,United States,14211
+P0036621378,UDDIN,MD,12/4/24,Home,185 St. Felix,,Buffalo,Buffalo,New York,United States,14227
+P0036711712,DUROLEK,SUZANNE,8/24/23,Home,52 B POLISH PLACE,,Buffalo,Buffalo,New York,United States,14210
+P0037018363,Raymond,Jessica,2/9/21,Home,25 Strauss St,rear,Buffalo,Buffalo,New York,United States,14212
+P0037044855,Dickson,Adari,4/15/25,Home,723 Norfolk Ave.,,Buffalo,Buffalo,New York,United States,14215
+P0037047383,McCann,Lisa,6/13/22,Home,2534 Bailey Ave.,Front Upper,Buffalo,Buffalo,New York,United States,14215
+P0037050544,CARPENTER,BRITTANY,6/6/22,Temporary,201 MACKINAW STREET,UPPER REAR,Buffalo,Buffalo,New York,United States,14204
+P0037087822,WYNTJES,SHERRY,12/22/20,Home,2023 BROADWAY,UPPER FRONT,Buffalo,Buffalo,New York,United States,14212
+P0037231432,SHELTON,SAMARIA,4/4/25,Home,32 WICK ST.,,Buffalo,Buffalo,New York,United States,14212
+P0037287349,ROGER,NANCY,11/23/20,Home,3445 SOUTH PARK AVE,Lot 7,Buffalo,Buffalo,New York,United States,14219
+P0037409567,KATREIN,SARAH,2/21/23,Home,83 HOMEWOOD AVENUE,,Buffalo,South Cheektowaga,New York,United States,14227
+P0037429881,JACKSON,EVIN,1/7/25,Home,863 NORTHLAND AV,,Buffalo,Buffalo,New York,United States,14215
+P0037451491,FOY,STAR,12/22/20,Home,71 GATES ST,UPPER,Buffalo,Sloan,New York,United States,14212
+P0037451654,MOHMED,FATIMA,12/22/20,Home,352 AUSTIN,,Buffalo,Buffalo,New York,United States,14207
+P0037551209,GROVES,CHEVONNE,10/6/24,Home,3563 FERRY AVE,,Niagara Falls,Niagara Falls,New York,United States,14301
+P0037562485,JABBAR,LAMIYAH,11/10/24,Home,109 Ridge Park Ave.,Upper,Buffalo,Buffalo,New York,United States,14211
+P0037591926,WALTERS,EMILY,1/16/24,Home,111 HAYDEN,,Buffalo,Buffalo,New York,United States,14210
+P0038011457,Fuoco,Michael,3/16/21,Home,476 Fisher Road,,Buffalo,Buffalo,New York,United States,14224
+P0038015761,OAKES,BRITTANY,11/4/24,Home,115 WILKES AVE,UPPER,Buffalo,Buffalo,New York,United States,14215
+P0038023794,Duffy,Edith,9/15/23,Home,644 Hopkins Street,,Buffalo,Buffalo,New York,United States,14220
+P0038036135,SHINE,SHARRON,4/6/21,Home,1005 Grant,312,Buffalo,Buffalo,New York,United States,14207
+P0038066715,BALD,HARVEY,3/26/21,Home,16 OLSEN STREET,,Buffalo,Buffalo,New York,United States,14206
+P0038371825,HARI,JASON,11/10/24,Home,50 Humber St,1,Buffalo,Buffalo,New York,United States,14215
+P0038378079,NORTHERN,MARY,2/21/23,Home,8 HERTEL AVE,APT 501,Buffalo,Buffalo,New York,United States,14207
+P0038440950,MARINACCIO,GERI,4/19/21,Home,5751 BERG RD,,Buffalo,W Seneca,New York,United States,14218
+P0038443782,MOSLEH,ZAMZAM,3/3/25,Home,34 RICH PL,,,,New York,United States,
+P0038548732,SMITH,JEANNA,3/26/24,Home,122 HEWITT AVE,,Buffalo,Buffalo,New York,United States,14215
+P0038567024,Parks-Oehmler,Katie,5/12/21,Home,87 Burch Ave,,Buffalo,Buffalo,New York,United States,14210
+P0038706553,Robinson,Darlington,10/16/23,Home,264 Carlton St,,Buffalo,Buffalo,New York,United States,14204
+P0038788999,FISHER,ROBERTA,6/19/21,Previous,87 ROYAL Avenue,,Buffalo,Buffalo,New York,United States,14207
+P0038789027,WOLF,SANDY,6/19/21,Home,31 WESTGATE AVE,203,Akron,Akron,New York,United States,14001
+P0038789041,ROSENBERG,TANYA,6/19/21,Home,31 WESTGATE,,Akron,Akron,New York,United States,14001
+P0038800012,Kott,William,9/20/22,Home,809 Niagara St.,rear,Buffalo,Buffalo,New York,United States,14213
+P0038820103,SCHNEIDER,STACY,11/3/24,Home,105 CLAUDE DR,,Buffalo,Buffalo,New York,United States,14206
+P0038839050,Jackson,Jennifer,2/9/23,Temporary,65 TUDOR ROAD,,Buffalo,Cheektowaga,New York,United States,14215
+P0038839106,SMITH,NICOLE,9/8/22,Home,53 WATERVIEW PKWY,,Hamburg,Hamburg,New York,United States,14075
+P0038872897,BORKMAN,MELISSA,3/11/25,Home,125 ARBOUR LANE,1,Buffalo,Buffalo,New York,United States,14220
+P0038933051,York,Jessica,11/11/24,Home,2 Courtland Ave,,Buffalo,Buffalo,New York,United States,14215
+P0038953507,Smith,Jacob,11/3/24,Home,85 rossiter rd,,Depew,Depew,New York,United States,14043
+P0038978784,ALLEN,SHALEXIS,2/9/23,Home,"376 Louisiana St, Buffalo, NY 14204 E",,Buffalo,Buffalo,New York,United States,14204
+P0038980596,DOGGETT,MARIA,11/12/24,Other,PO BOX 144,,Buffalo,Buffalo,New York,United States,14207
+P0039031190,PHILLIPS,JENNIFER,11/10/24,Home,10625 ALLEGHANY RD,2,Darien Center,Darien Center,New York,United States,14040
+P0039099172,DUSEL,ANNIE,3/9/22,Home,81 KLAS AVE,,Buffalo,Buffalo,New York,United States,14224
+P0039242302,GILES,BRITTANII,1/5/22,Home,85 WASSON AVENUE,,Buffalo,Lackawanna,New York,United States,14218
+P0039244452,Gonzales,Jillian,2/21/23,Home,5066 Thurston ave,,Buffalo,Buffalo,New York,United States,14219
+P0039267415,Price,Nathina,9/10/22,Home,126 Folger Street,,Buffalo,Buffalo,New York,United States,14220
+P0039327164,JOHNSON,KRISTINE,9/10/22,Home,413 FLETCHER ST,,Tonawanda,Tonawanda,New York,United States,14150
+P0039330945,MEALEY,DAVID,9/8/22,Home,135 Hawley St,,Buffalo,Buffalo,New York,United States,14213
+P0039485497,MCMILLIAN,CRYSTAL,1/16/24,Home,13 DEMPSTER STREET,,Buffalo,Buffalo,New York,United States,14206
+P0039548355,BARTKOWIAK,AUDREY,3/23/23,Home,330 LONGNECKER STREET,,Buffalo,Buffalo,New York,United States,14206
+P0039669033,Khan,Imanul,9/20/22,Home,87 15th Street,,Buffalo,Buffalo,New York,United States,14213
+P0039669075,WILLIAMS,CHIAVONNE,11/17/21,Home,1378 BAILEY AVE,LOWER,Buffalo,Buffalo,New York,United States,14206
+P0039722813,Ross,Mary,11/11/24,Home,45 Pulaski Street,,Buffalo,Buffalo,New York,United States,14206
+P0039772132,Andres,Stephen,3/4/25,Home,2761 SouthPark Ave,,Buffalo,Buffalo,New York,United States,14218
+P0039779926,BROOKS,KYJUAN,1/12/25,Home,15 NORTH CENTRAL AVENUE,,Buffalo,Buffalo,New York,United States,14212
+P0039801182,CEBULA,ANDREA,7/25/23,Home,548 POTTERS ROAD,,Buffalo,Buffalo,New York,United States,14220
+P0039809812,MASON,SHARIFE,12/13/21,Home,104 GIBSON ST,UPPER,Buffalo,Buffalo,New York,United States,14212
+P0039839202,Kaiser,Tracy,12/17/21,Temporary,133 FOLGERS STREET,LOWER,Buffalo,Buffalo,New York,United States,14220
+P0039853815,FOLVARCIK,HANNA,10/7/24,Home,258 Leroy Ave,,Buffalo,Buffalo,New York,United States,14214
+P0039866569,MCCORMICK,DANIEL,6/1/22,Home,993 CHURCH ROAD,,Angola,Angola,New York,United States,14006
+P0039896911,Parrett,Tatianna,1/3/22,Home,325 Winslow Ave,,Buffalo,Buffalo,New York,United States,14211
+P0039920570,GARDNER,JODI,1/3/22,Home,243 Travers Cir,Apt A,Buffalo,Amherst,New York,United States,14228
+P0039920606,MAJKA,ELAINE,1/3/22,Home,1667 SENECA STREET,5,Buffalo,Buffalo,New York,United States,14210
+P0039924150,Otero,Jailyn,1/25/22,Temporary,151 Brinkkman Ave,UPPER,Buffalo,Buffalo,New York,United States,14211
+P0039929122,Brooks,Cyrus,3/9/22,Home,1011 Fillmore Ave,,Buffalo,Buffalo,New York,United States,14211
+P0039961439,Ferguson,Anthony,1/6/25,Home,80 Wick Ave,,Buffalo,Buffalo,New York,United States,14212
+P0040007000,Bishop,Kriston,1/20/22,Home,26 Hunt Ave,Upper/Rear,Buffalo,Buffalo,New York,United States,14207
+P0040020085,Lee,Melvin,2/14/22,Home,331 Chelsea Place,,Buffalo,Buffalo,New York,United States,14215
+P0040020161,Kuhns,Lindsay,1/22/22,Home,375 Cleveland Dr,3,Buffalo,Cheektowaga,New York,United States,14215
+P0040041764,CORDERO,DEBORAH,1/25/22,Home,1035 Beach Road,A7,Buffalo,Buffalo,New York,United States,14225
+P0040060590,Ferloin,Talia,9/18/23,Home,103 BLACKMORE ST,,Tonawanda,Tonawanda,New York,United States,14150
+P0040114014,ELDRIDGE,KAITLYN,2/7/22,Home,1727 SOUTH PARK AVE,3,Buffalo,Buffalo,New York,United States,14220
+P0040143048,NICHOLSON,CHARLES,2/12/22,Home,1035 Beach Road,,Buffalo,Cheektowaga,New York,United States,14225
+P0040151640,MILLER,KIMBERELY,2/14/22,Home,261 BRECKENRIDGE ST,2,Buffalo,Buffalo,New York,United States,14213
+P0040151775,HINTON,CHOLENA,2/14/22,Home,108 HARLEM RD,,Buffalo,Buffalo,New York,United States,14224
+P0040164466,MIDDLEBROOKS,SHERRY,2/19/22,Home,79 LEMON STREET,,Buffalo,Buffalo,New York,United States,14204
+P0040179178,NATHAN,BEVERLY,2/19/22,Home,100 LEMON ST,,Buffalo,Buffalo,New York,United States,14204
+P0040227500,Rowles,Mary,3/5/22,Temporary,502 HOWARD STREET,SIDE DOOR,Buffalo,Buffalo,New York,United States,14206
+P0040254956,DUNKER,RENEE,3/5/22,Home,963 RIDGE RD,2,Buffalo,Lackawanna,New York,United States,14218
+P0040274754,GOODSON,FLORA,3/9/22,Home,60 MULBERRY,,Buffalo,Buffalo,New York,United States,14204
+P0040274759,TIRAEO,DEMARIS,3/9/22,Home,76 KEYSTONE ST,,Buffalo,Buffalo,New York,United States,14211
+P0040274796,BUMPUS-HARTLEY,MEGAN,3/9/22,Home,1140 EGGERT ROAD,,Buffalo,Buffalo,New York,United States,14226
+P0040277812,JAUME,DANIEL,4/18/22,Home,2277 DELAWARE AVE,UP,Buffalo,Buffalo,New York,United States,14216
+P0040379796,Phinney,Tina,1/3/23,Previous,502 Howard St,,Buffalo,Buffalo,New York,United States,14206
+P0040501926,PEIFFER,RENATA,4/20/22,Home,17 HARMONY LANE,,Buffalo,Cheektowaga,New York,United States,14225
+P0040507082,PAIGE,RAYMOND,9/10/22,Home,10 CUMBERLAND AVE,upper 4,Buffalo,Buffalo,New York,United States,14220
+P0040515337,WHIPPO,MARISOL,1/12/25,Home,86 Benzinger St,,Buffalo,Buffalo,New York,United States,14206
+P0040544349,CONSCHAFTER,MEGAN,4/27/22,Home,13853 BLOOMINGDALE RD,,Akron,Akron,New York,United States,14001
+P0040558165,RATTLE,GINA,6/13/22,Home,119 SHAWNEE PLACE,,Buffalo,West Seneca,New York,United States,14224
+P0040573990,Hill,Kachoya,5/3/22,Home,183 Butler Ave,Lower,Buffalo,Buffalo,New York,United States,14208
+P0040593348,GADOMSKI,DIANE,9/20/22,Home,18 LOMBARD STREET,REAR,Buffalo,Buffalo,New York,United States,14206
+P0040639384,Roberts,EJ,6/13/22,Home,2779 MAIN STREET,3,Buffalo,Buffalo,New York,United States,14214
+P0040651844,HINTON,BROOKLYN,9/22/22,Home,108 HARLEM ROAD,,Buffalo,West Seneca,New York,United States,14224
+P0040659595,Oland,Peatea,6/13/22,Home,117 Guilford,,Buffalo,Buffalo,New York,United States,14212
+P0040660339,KRASNIQI,ADELINA,6/13/22,Home,3208 CLEARVIEW WAY,,Buffalo,Blasdell,New York,United States,14219
+P0040672373,SMITH,NICOLE,5/21/22,Home,413 MASTEN AVE,,Buffalo,Buffalo,New York,United States,14208
+P0040759255,Bell,Sherry,6/1/22,Home,31 Spiess St.,,Buffalo,Buffalo,New York,United States,14211
+P0040779512,CANTERBURY,CODY,11/12/24,Home,310 Pennsylvania,,Buffalo,Buffalo,New York,United States,14210
+P0040786802,SLONAC,MONIQUE,6/6/22,Home,156 BUFFUM STREET,,Buffalo,Buffalo,New York,United States,14210
+P0040786822,MAKOLINSKI,SAMANTHA,6/6/22,Home,1066 ELMWOOD AVE,1,Buffalo,Buffalo,New York,United States,14222
+P0040786841,RYAN,MARY,6/6/22,Home,8195 Cherry ln,,Niagara Falls,Niagara Falls,New York,United States,14304
+P0040786866,DEFAZIO,PAULA,6/6/22,Home,2714 NIAGARA STREET,,Niagara Falls,Niagara Falls,New York,United States,14303
+P0040786884,GARDNER,PATRICK,6/6/22,Home,446 SHETLAND,,Buffalo,Amherst,New York,United States,14221
+P0040786971,WITHROW,AMANDA,6/6/22,Home,462 N. CLAREMONT AVE,,Buffalo,Tonawanda,New York,United States,14223
+P0040786996,ERHARDT,DAVID,6/6/22,Home,50 MAPLE AVE,,Buffalo,Buffalo,New York,United States,14219
+P0040828560,ADAMS,HEIDI,6/13/22,Home,43 GORSKI ST,,Buffalo,Buffalo,New York,United States,14206
+P0040828589,JENISON,SANDRA,6/13/22,Home,12736 RT 438,,Irving,Irving,New York,United States,14081
+P0040828776,KIMBLE,ERNEST,6/13/22,Home,423 LISBON AVE,,Buffalo,Buffalo,New York,United States,14215
+P0040828790,WATERMAN,DAVID,6/13/22,Home,50 CAREFREE LN,,Buffalo,Buffalo,New York,United States,14225
+P0040828823,MCKINNEY,REGINA,6/13/22,Home,39 DAVIS STREET,,Buffalo,Buffalo,New York,United States,14204
+P0040828834,KYSE,SHUREESE,6/13/22,Home,,,,,New York,United States,
+P0040862473,PLOUFFE,SUSAN,6/18/22,Home,6186 BOSTON RIDGE ROAD,,Orchard Park,Orchard Park,New York,United States,14127
+P0040918018,EPPS,PATRICIA,6/28/22,Home,37 ELLER,,Buffalo,Buffalo,New York,United States,14211
+P0040968595,MORRISON,JAYSA,9/20/22,Home,180 EAST DELEVAN AVENUE,,Buffalo,Buffalo,New York,United States,14208
+P0040998996,Lloydclay,Latoya,9/8/22,Home,433 Hewitt Ave,,Buffalo,Buffalo,New York,United States,14215
+P0041049421,swiakowski,sean,9/8/22,Home,959 Ridge Rd,5,Buffalo,Buffalo,New York,United States,14218
+P0041050585,Bearss,William,1/16/24,Previous,91 Cable Street,,Buffalo,Buffalo,New York,United States,14206
+P0041099402,Colopy,Megan,9/8/22,Home,219 Kirkwood,,Buffalo,West Seneca,New York,United States,14224
+P0041105841,Olaf,Gerald,9/8/22,Home,435 W Ferry St,upper,Buffalo,Buffalo,New York,United States,14213
+P0041125237,Wilson,Katrina,9/10/22,Home,183 Smith Street,,Buffalo,Buffalo,New York,United States,14210
+P0041139258,Sommerville,Diamonds,9/20/22,Home,88 Hawley,,,,New York,United States,14213
+P0041152077,MEDLEY,SAMANTHA,11/4/24,Home,408 SUMMER STREET,5C,Buffalo,Buffalo,New York,United States,14213
+P0041160105,Rivera,Hady,2/11/25,Home,108 Jewett Ave,B,Buffalo,Buffalo,New York,United States,14214
+P0041193760,MADDEN,JAMIE,9/10/22,Home,27 MELVIN PLACE,,Buffalo,Buffalo,New York,United States,14204
+P0041232371,SCHEBELL,DEBBIE,3/23/23,Home,271 WIND MILL RD,,Buffalo,West Seneca,New York,United States,14218
+P0041343045,Smigiel,Cynthia,9/20/22,Home,197 Cable St.,rear,Buffalo,Buffalo,New York,United States,14206
+P0041344273,FORBER,ALETHEA,9/8/22,Home,394 HUDSON ST,,Buffalo,Buffalo,New York,United States,14201
+P0041344287,TAIT,HOLLY,9/8/22,Home,35 ARMIN PL,,Buffalo,Buffalo,New York,United States,14210
+P0041344821,HYLAND,JESSICA,9/8/22,Home,24 STRAUSS,,Buffalo,Buffalo,New York,United States,14212
+P0041344838,WHITE,DARINA,9/8/22,Home,210 BAITZ,,Buffalo,Buffalo,New York,United States,14206
+P0041345336,ORTIZ REYES,DALILA,9/8/22,Home,174 CHADDUCK,UPPER,Buffalo,Buffalo,New York,United States,14207
+P0041345599,TOMCZYK,SUSAN,9/8/22,Home,38 TROUPE ST,UPPER,Buffalo,Buffalo,New York,United States,14210
+P0041347031,JAQUES,MARIA,3/30/23,Home,902 80TH STREET,103,Niagara Falls,Niagara Falls,New York,United States,14304
+P0041355475,Galuzzo,Laura,9/20/22,Home,2763 Main St.,3,Buffalo,Buffalo,New York,United States,14214
+P0041357680,ADAMS,MICHELLE,9/10/22,Home,4206 GLENWILLOW DR,,Hamburg,Hamburg,New York,United States,14075
+P0041357721,LAQUERRE,KIMBERLY,9/10/22,Home,419 SWAN STREET,,Buffalo,Buffalo,New York,United States,14204
+P0041357748,FREDETTE,SARAH,9/10/22,Home,94 Bouck,,Tonawanda,Tonawanda,New York,United States,14150
+P0041357957,MONTANEZ,LISA,9/10/22,Home,15 BOONE ST,,Buffalo,Buffalo,New York,United States,14220
+P0041385930,SMITH,IVY,11/12/24,Home,175 LAUREL ST,,Buffalo,Buffalo,New York,United States,14208
+P0041414435,RINGLE,DEBORAH,9/20/22,Home,189 PACECREST CT,,Buffalo,West Seneca,New York,United States,14224
+P0041414475,GORMAN,WENDY,9/20/22,Home,4056 UNION ROAD,,Buffalo,Cheektowaga,New York,United States,14225
+P0041415957,Rudd,Edward,1/16/24,Home,21 Rounds Ave,,Buffalo,Buffalo,New York,United States,14215
+P0041428196,CROSACOTT,KRISTIN,2/9/23,Home,208 LADNER AVE,3,Buffalo,Buffalo,New York,United States,14220
+P0041428221,WITTMEYER,AMANDA,2/9/23,Home,208 LADNER AVE,4,Buffalo,Buffalo,New York,United States,14220
+P0041451738,Koziel,Nicole,9/29/22,Home,44 Eller Ave,Upper,Buffalo,Buffalo,New York,United States,14211
+P0041460993,HUNTINGTON,JAMES,11/7/22,Home,85 15TH STREET,,Buffalo,Buffalo,New York,United States,14213
+P0041500325,IRWIN,LAURA,11/12/24,Home,978 RIDGE ROAD,,Buffalo,Buffalo,New York,United States,14218
+P0041506893,Wisby,Alexander,2/9/23,Home,45 Center,3,Angola,Angola,New York,United States,14006
+P0041519823,BURNETT-HENNINGS,DASTANIE,2/20/23,Home,115 EDSON ST,left,Buffalo,Buffalo,New York,United States,14210
+P0041535734,KUSTRA,MICHELLE,2/9/23,Home,35 COLTON AVENUE,,Buffalo,Lackawanna,New York,United States,14218
+P0041553027,Batch,Lueann,11/4/24,Home,18 TIMON STREET,,Buffalo,Buffalo,New York,United States,14211
+P0041573157,SCHIFFMACHER,NICOLETTE,2/9/23,Home,52 HERITAGE COURT,,Buffalo,Cheektowaga,New York,United States,14225
+P0041592115,MORSE,JACQUELYN,2/21/23,Home,6360 NEW TAYLOR ROAD,,Orchard Park,Orchard Park,New York,United States,14127
+P0041612337,MORRIS,JAMIE,10/24/22,Home,59 CONGRESS ST,,Buffalo,Buffalo,New York,United States,14213
+P0041625785,BROWN,ADRIANNA,2/20/23,Home,301 BAYNES STREET,3,Buffalo,Buffalo,New York,United States,14213
+P0041634051,BLUHM,ANTHONY,3/23/23,Home,52 WYANDOTTE AVE,,Buffalo,Buffalo,New York,United States,14207
+P0041642941,NAVAROLI,PATRICIA,7/20/23,Home,215 TIMON STREET,,Buffalo,Buffalo,New York,United States,14208
+P0041648403,Pitts,Christopher,2/21/23,Home,502 Howard ST,,Buffalo,Buffalo,New York,United States,14206
+P0041651857,HAUSER,MARYANN,10/31/22,Home,69 ASHLAND AVE,8,Buffalo,Buffalo,New York,United States,14222
+P0041681383,STARE,DRAGICA,9/20/24,Home,3103 Cambridge Square S,B,Buffalo,Blasdell,New York,United States,14219
+P0041736261,FALTISCO,SUSIE,2/20/23,Home,51 LUDEL STREET,,Buffalo,Lackawanna,New York,United States,14218
+P0041770175,PERKINS,SABRINA,1/16/24,Home,89 Slate Creek,,Cheektowaga,Buffalo,New York,United States,14227
+P0041772974,GREEN,ESTHER,2/9/23,Home,36 BISSELL AVE,,Buffalo,Buffalo,New York,United States,14211
+P0041776366,RODRIGUEZ,CARMEN,11/22/22,Home,158 CHENANGO STREET,DOOR 105,Buffalo,Buffalo,New York,United States,14213
+P0041801864,COLEMAN,KEVIN,2/20/23,Home,23 ATHOL STREET,LOWER,Buffalo,Buffalo,New York,United States,14220
+P0041803135,ABBAS,ADAM,2/20/23,Home,493 NIAGARA STREET,1,Buffalo,Buffalo,New York,United States,14201
+P0041815333,BAIR,DAWN,2/20/23,Home,628 22ND STREET,UPPER,Niagara Falls,Niagara Falls,New York,United States,14301
+P0041840484,KOCH,LEONARD,2/21/23,Home,312 SUMMER STREET,,Buffalo,Buffalo,New York,United States,14222
+P0041845178,KOCH,JOHN,2/9/23,Home,3629 2ND STREET,,Buffalo,Blasdell,New York,United States,14219
+P0041848316,NELSON,CAMILLE,12/6/22,Home,3 MABLE COURT,,Buffalo,Buffalo,New York,United States,14203
+P0041849449,SCHMIGIEL,JOSEPH,11/5/24,Home,403 Benzinger St,,Buffalo,Buffalo,New York,United States,14206
+P0041872212,EHRIG,VICTORIA,2/9/23,Home,175 NORTH STREET,815,Buffalo,Buffalo,New York,United States,14201
+P0041906915,Bateno,Angelo,2/9/23,Home,110 Miller Ave,lower,Buffalo,Buffalo,New York,United States,14212
+P0041908120,DeLaney,Darrell,2/9/23,Home,25 Texas St,,Buffalo,Buffalo,New York,United States,14215
+P0041910025,Mohl,Leanne,9/26/24,Home,11 Robert Drive,101,Buffalo,Lackawanna,New York,United States,14086
+P0041921252,SHERRY,CHARLES,12/17/24,Home,305 NORTH STREET,74,Buffalo,Buffalo,New York,United States,14201
+P0041938951,TREJO,JENNIFER,2/9/23,Home,83 RED JACKET STREET,,Buffalo,Buffalo,New York,United States,14210
+P0041963525,GREEN,JERWAYNE,2/9/23,Home,42 BISSELL AVE,,Buffalo,Buffalo,New York,United States,14211
+P0041990118,LUMADUE,PAUL,1/3/23,Home,770 MILL RD,1B,Buffalo,Buffalo,New York,United States,14224
+P0042012249,JAUME,DANIEL,2/9/23,Home,2277 DELAWARE AVE,UP,Buffalo,Buffalo,New York,United States,14216
+P0042047690,Wullo,Shelly,2/21/23,Home,465 Dorrance Ave,207,,,New York,United States,14218
+P0042086013,Groce,Robin,4/22/25,Home,410 Massachuestts,,Buffalo,Buffalo,New York,United States,14213
+P0042087166,Hood,Marquita,12/4/24,Home,217 W Tupper,Lower,Buffalo,Buffalo,New York,United States,14201
+P0042088895,Guevara,Melanie,2/21/23,Home,355 Military Street,B,Buffalo,Buffalo,New York,United States,14207
+P0042091141,SCHWERTFAGER,JUSTIN,2/21/23,Home,940 AMHERST STREET,3,Buffalo,Buffalo,New York,United States,14224
+P0042094662,BENJAMIN,MAGGIE,2/20/23,Home,75 LOCKWOOD AVENUE,,Buffalo,Buffalo,New York,United States,14220
+P0042116963,Holland,Peter,2/21/23,Home,117 Guilford,,Buffalo,Buffalo,New York,United States,14212
+P0042122913,DAVIS,DONNA,11/12/24,Home,142 BENZINGER ST,,Buffalo,Buffalo,New York,United States,14206
+P0042129270,Rosenthal,Ben,11/11/24,Home,2855 William St,Rear,Buffalo,Cheektowaga,New York,United States,14225
+P0042160777,FIGUEROA,EMILY,2/2/23,Home,376 LOUISIANA STREET,F,Buffalo,Buffalo,New York,United States,14204
+P0042171159,CUMMINGS-FORD,DORIS,3/23/23,Home,507 HIGHGATE AVENUE,,Buffalo,Buffalo,New York,United States,14215
+P0042182905,EMRICK,MADISON,11/3/24,Home,124 Lake Ave,3,Blasdell,Buffalo,New York,United States,14219
+P0042201458,Jobson,Rochelle,2/9/23,Home,582 Perry Street,,Buffalo,Buffalo,New York,United States,14210
+P0042202271,Blanchard,Elaine,2/9/23,Home,Ellicott Creek Park,,,,New York,United States,
+P0042202538,Benintende,Cindy,2/9/23,Home,233 Barton Street,,Buffalo,Buffalo,New York,United States,14213
+P0042222563,Smith,Renee,11/12/24,Home,6018 BROADWAY ST,,Lancaster,Lancaster,New York,United States,14086
+P0042231910,Smith,Jada,3/30/23,Home,153 Clarence St,,Buffalo,Buffalo,New York,United States,14215
+P0042263442,ANDERSON,JOVANNA,3/23/23,Other,232 SHIRLEY AVENUE,,Buffalo,Buffalo,New York,United States,14215
+P0042264311,Morse,Jamie,2/21/23,Home,99 Warren Ave,Rear,Buffalo,Buffalo,New York,United States,14212
+P0042264523,Oser,Falisha,2/21/23,Home,290 S. Elmwood Avenue,,Buffalo,Buffalo,New York,United States,14201
+P0042264638,Perez,Melissa,2/21/23,Home,290 ABBOTT RD,2F,Buffalo,Buffalo,New York,United States,14220
+P0042264908,Shabaan,Omar,2/21/23,Home,17 Auchinvole Avenue,,Buffalo,Buffalo,New York,United States,14213
+P0042264961,Sopko,Tabitha,2/21/23,Home,73 Weyand Avenue,,Buffalo,Buffalo,New York,United States,14210
+P0042265006,Weber,Shannon,2/21/23,Home,2628 Clinton Street,,Buffalo,West Seneca,New York,United States,14224
+P0042301278,MAHOSKY,JUSTINA,3/30/23,Home,304 WASHBURN STREET,5,Lockport,Lockport,New York,United States,14094
+P0042303606,LADUE,SARAH,11/3/24,Home,8144 Amy-Jenn Dr,,Angola,Angola,New York,United States,14006
+P0042318141,RIVERA,LUIS,3/13/23,Home,25 HARVEY PL,,Buffalo,Buffalo,New York,United States,14210
+P0042318199,AVERY,ROXANNE,11/11/24,Previous,89 GIBSON,,Buffalo,Buffalo,New York,United States,14212
+P0042320331,STYPA,SUSAN,11/3/24,Home,180 KENNEDY RD,,Buffalo,Cheektowaga,New York,United States,14227
+P0042350500,Johnson,Jason,3/30/23,Home,17 Interpark,Upper,Buffalo,Buffalo,New York,United States,14211
+P0042422552,Briggs,Tina,3/22/23,Home,502 Howard Street,,Buffalo,Buffalo,New York,United States,14206
+P0042430644,Carey,Lorne,3/23/23,Home,1416 Main Street,,Buffalo,Buffalo,New York,United States,14209
+P0042430668,Carter,Wendy,3/23/23,Home,145 Vanderbuilt Street,,Buffalo,Buffalo,New York,United States,14206
+P0042430707,FULL,RYAN,3/23/23,Home,554 INDIAN CHURCH ROAD,,Buffalo,West Seneca,New York,United States,14224
+P0042430954,HUDSON,JOSHUA,3/23/23,Home,306 MONTROSE AVENUE,,Buffalo,Tonawanda,New York,United States,14223
+P0042431175,IGLESIAS,DEMETRIUS,3/23/23,Home,51 STEPHENSON AVENUE,,Buffalo,West Seneca,New York,United States,14224
+P0042431201,IGLESIAS,SUZANNE,3/23/23,Home,51 STEPHENSON AVENUE,,Buffalo,West Seneca,New York,United States,14224
+P0042436099,Cunningham,Saeed,3/25/25,Home,44 Orchard Pl,,Buffalo,Buffalo,New York,United States,14214
+P0042461881,EDWARDS,CHRISTINE,1/16/24,Home,53 WECKER STREET,,Buffalo,Buffalo,New York,United States,14215
+P0042465053,Schleu,James,3/30/23,Home,362 Delaware Street,3,Tonawanda,Tonawanda,New York,United States,14150
+P0042468028,PINZONE,SARAH,3/30/23,Home,6233 WEBSTER ROAD,,Orchard Park,Orchard Park,New York,United States,14127
+P0042468169,STRONG,CHAYRON,3/30/23,Home,4 LAKEVIEW AVENUE,,Buffalo,Buffalo,New York,United States,14201
+P0042487335,DOUGLAS,MELVIN,4/3/23,Home,382 HERKIMER ST,FIRST FLOOR,Buffalo,Buffalo,New York,United States,14213
+P0042575939,MULLEN,LOUIS,6/30/23,Home,400 OLYMPIC AVE,,Buffalo,Buffalo,New York,United States,14215
+P0042582110,BROWN,KATHERINE,11/4/24,Home,4266 E. ALLEN ST,#3,Buffalo,Blasdell,New York,United States,14219
+P0042633303,PORTER,TAYA,10/6/24,Home,95 Eller Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0042674410,RAMSEURE,IYANA,1/16/24,Home,659 WEST AVENUE,,Buffalo,Buffalo,New York,United States,14213
+P0042707992,Kay,Channell,10/16/23,Previous,200 JEFFERSON AVE,,Buffalo,Buffalo,New York,United States,14204
+P0042731390,GRIFFIN,LISA,5/19/23,Home,245 NORTH STREET,302,Buffalo,Buffalo,New York,United States,14201
+P0042742453,Szymanski,Michelle,8/24/23,Home,308 CABLE STREET,REAR,Buffalo,Buffalo,New York,United States,14206
+P0042748867,Beltran,Nicole,10/16/23,Home,1174 Kenmore Ave,11,Buffalo,Buffalo,New York,United States,14216
+P0042797395,Medina,Krizia,5/31/23,Home,133 Lathrop St.,,Buffalo,Buffalo,New York,United States,14212
+P0042876201,Nesbitt,Barbeck,7/20/23,Home,119 Humason,,Buffalo,Buffalo,New York,United States,14211
+P0042956975,GREER,VERONICA,6/28/23,Home,93 DUNLOP,1,Buffalo,Buffalo,New York,United States,14215
+P0042957250,Mardocco,Christine,6/28/23,Home,110 Edson Street,Lower Front,Buffalo,Buffalo,New York,United States,14210
+P0043479029,Rowe,Amy,9/15/23,Home,112 goembel,,Buffalo,Buffalo,New York,United States,14211
+P0043530959,FOX,DEBRA,9/15/23,Home,144 FLOHR AVENUE,,,Buffalo,New York,United States,14224
+P0043564939,Berrios,Edwin,7/17/23,Home,48 Poplar Ave,,Buffalo,Buffalo,New York,United States,14211
+P0043568940,Cordero,Amanda,7/18/23,Home,1035 Beach Road,E3,Buffalo,Buffalo,New York,United States,14225
+P0043583594,SMITH,JOSEPH,7/20/23,Home,224 ALLEN ST,,Buffalo,Buffalo,New York,United States,14201
+P0043583690,ELLIS,MARYANN,7/20/23,Home,830 ELM STREET,,Buffalo,West Seneca,New York,United States,14224
+P0043603537,Moran,Dominica,1/31/24,Home,34 Carefree Ln,,Buffalo,Cheektowaga,New York,United States,14225
+P0043603683,TAYLOR,TATYANA,7/24/23,Home,131 CLARENCE AVE,,Buffalo,Buffalo,New York,United States,14215
+P0043603875,MORLEY,ALIVIA,7/24/23,Home,26 JESSICA LANE,,Depew,Depew,New York,United States,14043
+P0043603899,WALKOWIAK,AMBER,7/24/23,Home,49 Armin Place,,Buffalo,Buffalo,New York,United States,14210
+P0043603933,SAID,RICHARD,7/24/23,Home,1432 BAILEY AVE,,Buffalo,Buffalo,New York,United States,14206
+P0043604013,SOUTHERN,INDIA,7/24/23,Home,1200 WILLIAM STREET,3258,Buffalo,Buffalo,New York,United States,14215
+P0043604147,ROSIAN,LORRIE,7/24/23,Home,236 MASSACHUSETTS,,Buffalo,Buffalo,New York,United States,14213
+P0043604813,WORLEY,DENNIS,1/12/24,Home,20 EMBASSY SQ,2,Tonawanda,Tonawanda,New York,United States,14150
+P0043608608,CARLTON,JACKIE,7/25/23,Home,72 LAFAYETTE STREET,,Buffalo,Buffalo,New York,United States,14213
+P0043622464,BOYKIN,CHARNELL,7/27/23,Home,52 CAMELOT CT,,Buffalo,Buffalo,New York,United States,14214
+P0043625962,OSTEEN,SHADRACK,7/28/23,Home,10 7TH STREET,723,Buffalo,Buffalo,New York,United States,14201
+P0043630593,Douglas,Donte,1/16/24,Home,2767 Main St.,19,Buffalo,Buffalo,New York,United States,14214
+P0043633569,Hawkins,Christina,7/29/23,Home,77 Edson Ave,,Buffalo,Buffalo,New York,United States,14210
+P0043641095,CARROLL,PATRICK,7/31/23,Home,15 KOESTER STREET,,Buffalo,Buffalo,New York,United States,14220
+P0043647306,RIVERA,OMAYRA,8/24/23,Home,160 GORTON STREET,,Buffalo,Buffalo,New York,United States,14207
+P0043735804,ALSHAKER,RUQAYA,3/4/25,Home,16 WASSON AVENUE,,Buffalo,Lackawanna,New York,United States,14218
+P0043765731,WALKER,ROBIN,8/23/23,Home,86 GERMAINE STREET,LOWER,Buffalo,Buffalo,New York,United States,14207
+P0043766170,DOOLEY-DAVIS,DEIDRA,8/23/23,Home,2 CALHOUN PLACE,,Tonawanda,Tonawanda,New York,United States,14150
+P0043771149,MOORE,VICTOR,8/24/23,Home,71 EMSLIE STREET,,BuffaloB,Buffalo,New York,United States,14210
+P0043771224,MOODY,SHARREESE,8/24/23,Home,190 CARL STREET,UPPER,Buffalo,Buffalo,New York,United States,14215
+P0043771235,NURI,ALAM,8/24/23,Home,36 VAN GORDER ST.,,Buffalo,Buffalo,New York,United States,14214
+P0043771768,HAYNES,COREY,8/24/23,Home,1240 DELAWARE AVE,,Buffalo,Buffalo,New York,United States,14209
+P0043771991,BOWDEN,REGINA,8/24/23,Home,459 FARGO AVE,,Buffalo,Buffalo,New York,United States,14213
+P0043772035,BORDEN,JESSICA,8/24/23,Home,11821 RT98,,Freedom,Freedom,New York,United States,14065
+P0043772113,GOZDAN,COURTNEY,8/24/23,Home,94 ZITTEL STREET,,Buffalo,Buffalo,New York,United States,14210
+P0043779502,NICPON,ANTHONY,11/12/24,Home,466 WEIMAR ST,,Buffalo,Buffalo,New York,United States,14206
+P0043798296,HATTEN,KHADIJA,9/15/23,Home,19 NORMADY AVENUE,,Buffalo,Cheektowaga,New York,United States,14225
+P0043844991,COOK,JASON,1/9/24,Home,68 RANO STREET,,Buffalo,Buffalo,New York,United States,14207
+P0043849109,Banks,Dana,9/8/23,Home,6772 East Eden Road,,Hamburg,Hamburg,New York,United States,14075
+P0043880581,DULAK,THOMAS,9/14/23,Home,69 BRADLEY STREET,,Buffalo,Buffalo,New York,United States,14213
+P0043885088,williams,kaylie,11/30/23,Home,35 BROOKRIDGE DR.,,Hamburg,,New York,United States,14075
+P0043886122,MOORE,TERRY,9/15/23,Home,62 Kirkpatrick St,,Buffalo,Buffalo,New York,United States,14215
+P0043886211,HORNBERGER,MARLENE,9/15/23,Home,4050 STATE ROAD,,Buffalo,Buffalo,New York,United States,14219
+P0043886646,LUPER,ASHANTI,9/15/23,Home,81 WASSON AVE,,Buffalo,Buffalo,New York,United States,14218
+P0043898926,MEDINA,JOSE,9/18/23,Home,1048 WEST AVE,UPPER,Buffalo,Buffalo,New York,United States,14213
+P0043898964,MORT,WENDYLOU,9/18/23,Home,148 BOUCK ST,,Tonawanda,Tonawanda,New York,United States,14150
+P0043899087,WHITEMAN,HOLLY,9/18/23,Home,162 CRESTWOOD,#1,Buffalo,Buffalo,New York,United States,14213
+P0043915433,WOODS`,LAMAJA,9/21/23,Home,471 4TH ST,,Buffalo,Buffalo,New York,United States,14201
+P0043915500,STEWART,CANDICE,9/21/23,Home,59 FREUND STREET,,Buffalo,Buffalo,New York,United States,14211
+P0043921442,PILOZZI,KELLY,9/22/23,Home,82 CLINTON STREET,,Tonawanda,Tonawanda,New York,United States,14150
+P0043921679,LAWSON,MICHAEL,10/16/23,Home,146 WOODELL AVENUE,SIDE DOOR,Buffalo,Buffalo,New York,United States,14211
+P0044269121,LOVE,JOYCE,9/25/23,Home,12 FOSTER RIDGE,,Hamburg,Hamburg,New York,United States,14075
+P0044307606,TORRES,CARMEN,10/3/23,Home,118 18TH STREET,1,Buffalo,Buffalo,New York,United States,14213
+P0044319161,DROST,STEVEN,10/5/23,Home,197 SMITH STREET,LOWER,Buffalo,Buffalo,New York,United States,14210
+P0044339327,Markey,William,10/16/23,Home,228 Cable St,,Buffalo,Buffalo,New York,United States,14206
+P0044339540,Ezzo,Tabitha,11/11/24,Home,6360 Transit Rd,,Depew,Depew,New York,United States,14043
+P0044341676,Harrington,James,10/16/23,Home,1225 East and West Rd.,,Buffalo,Buffalo,New York,United States,14224
+P0044355173,Archer,Samantha,10/12/23,Home,95 Eller Avenue,,Buffalo,Buffalo,New York,United States,14211
+P0044355190,Apthorp,Melanie,10/12/23,Home,235 S. Forest Road,,Buffalo,Buffalo,New York,United States,14221
+P0044355215,GONZALEZ,ALMA,10/12/23,Home,334 BIRD AVE,,Buffalo,Buffalo,New York,United States,14213
+P0044355229,MORALES,ELIZABETH,10/12/23,Home,451 LISBON AVE,,Buffalo,Buffalo,New York,United States,14215
+P0044355291,WA,NWAY,10/12/23,Home,318 DEARBORN ST,,Buffalo,Buffalo,New York,United States,14207
+P0044355300,HILL,DILLEN,10/12/23,Home,194 Altruria St,,Buffalo,Buffalo,New York,United States,14220
+P0044376163,Drost,Stephen,10/16/23,Home,197 Smith Street,Lower,Buffalo,Buffalo,New York,United States,14210
+P0044376199,TILLERY,ZACHARIAH,10/16/23,Home,14 WEST WATER STREET,,Friendship,Friendship,New York,United States,14739
+P0044376226,BERTINI,AUDREY,10/16/23,Home,410 E. UTICA,,Buffalo,Buffalo,New York,United States,14208
+P0044376232,RADFORD,SUSAN,10/16/23,Home,285 PEPPERTREE DRIVE,115,Buffalo,West Amherst,New York,United States,14228
+P0044376243,ORTIZ,MARILYN,10/16/23,Home,18 MALSCH STREET,,Buffalo,Buffalo,New York,United States,14207
+P0044377855,CARLOS,JOHN,10/16/23,Home,9880 TRANSIT ROAD,#1,East Amherst,East Amherst,New York,United States,14051
+P0044377969,WOOLDRIDGE,KARA,10/16/23,Home,53 KIRBY,,LACKAWANNA,Buffalo,New York,United States,14218
+P0044377985,LANDS,SHIRLEY,10/16/23,Home,47 MAPLE STREET,,Buffalo,Buffalo,New York,United States,14218
+P0044378704,Brown,Alison,10/16/23,Home,4650 Union Road,,Cheektowaga,Cheektowaga,New York,United States,14225
+P0044378746,BECKWITH,LAUREN,10/16/23,Home,229 OXFORD,LOWER,Buffalo,Buffalo,New York,United States,14209
+P0044393436,CARTER,RAYNETTA,10/19/23,Home,59 EMERSON PLACE,B,Buffalo,Buffalo,New York,United States,14209
+P0044404289,Metrose,Christine,10/7/24,Home,58 Eagan Dr,1,Buffalo,Lackawanna,New York,United States,14218
+P0044429771,LANE,CONNIE,10/26/23,Home,83 GRIMES STREET,,Buffalo,Buffalo,New York,United States,14212
+P0044460349,Wilson,Jessica,11/6/23,Home,67 Downing St.,lower,Buffalo,Buffalo,New York,United States,14220
+P0044487112,FAILEY,DENNIS,11/6/23,Home,25 S RYAN STREET,,Buffalo,Buffalo,New York,United States,14210
+P0044571441,YOUNG,NANCY,11/12/24,Home,1388 RIDGE RD,,Buffalo,Buffalo,New York,United States,14218
+P0044588400,RODRIGUEZ,JINIKO,11/3/24,Home,84 VICTORY AVE,#1,Buffalo,Lackawanna,New York,United States,14218
+P0044665920,Douglas-Morales,Kishia,4/15/25,Home,334 HUMBOLDT PKWY,,Buffalo,Buffalo,New York,United States,14214
+P0044675948,FRANKLIN,GEORGETT,12/14/23,Home,1 MCNEELY WAY,3,Buffalo,Buffalo,New York,United States,14204
+P0044676065,ADORNO,ALEYSHKA,11/12/24,Home,15 VERA AVE,,Buffalo,Cheektowaga,New York,United States,14225
+P0044676190,BROWN,KATIE,12/28/24,Home,4266 E. ALLEN STREET,,Buffalo,Blasdell,New York,United States,14219
+P0044697862,ACOSTA,BLANCA,1/16/24,Home,125 ALBERT AVENUE,,Buffalo,Buffalo,New York,United States,14207
+P0044712747,Ladowski,Deann,12/21/23,Home,40 ASHLEY STREET,,Buffalo,Buffalo,New York,United States,14212
+P0044719126,ASHLEY,SHARON,12/22/23,Home,108 WEBER AVE,,Buffalo,Buffalo,New York,United States,14215
+P0044719141,GIBSON,EMILY,12/22/23,Home,130 ONTARIO STREET,,Buffalo,Buffalo,New York,United States,14207
+P0044719169,DERSAM,ANNA,12/22/23,Home,191 PARKSIDE AVE,,Buffalo,Buffalo,New York,United States,14214
+P0044719231,WOJTUSIAK,LAUREN,12/22/23,Home,1521 PIERCE AVE,,Niagara Falls,Niagara Falls,New York,United States,14301
+P0044719738,SMITH,DAWN,12/22/23,Home,1521 PIERCE AVE,,Niagara Falls,Niagara Falls,New York,United States,14304
+P0044730554,TORRES,ARACELIS ALICEA,1/16/24,Home,23 KNOERL AVENUE,,Buffalo,Buffalo,New York,United States,14210
+P0044752250,PEYTON,TORESA,12/4/24,Home,34 CASTLE PLACE,,Buffalo,Buffalo,New York,United States,14214
+P0044757119,ROBINSON,ASHLEY,1/5/24,Home,129 Ridge Park Ave,,Buffalo,Buffalo,New York,United States,14211
+P0044782998,BEANE,BERNARD,11/12/24,Home,1316 Bailey Ave,,Buffalo,Buffalo,New York,United States,14206
+P0044795690,Quagliana,Susan,1/8/24,Home,245 North Street,105,Buffalo,Buffalo,New York,United States,14201
+P0044799281,CORDOVA,ALEXIS,1/9/24,Home,6 GIERLACH STREET,,Buffalo,Sloan,New York,United States,14212
+P0044799443,MOTQUIN,ERIC,1/9/24,Home,87 WHITNEY PL,304,Buffalo,Buffalo,New York,United States,14201
+P0044799530,CONSTANTINO,DEBORAH,1/9/24,Home,1048 KAREN DRIVE,,Angola,Angola,New York,United States,14006
+P0044799568,CAREY,SARAH,1/9/24,Home,34 BROWN STREET,,Buffalo,Cheektowaga,New York,United States,14227
+P0044830377,WEBER,MASON,1/16/24,Home,357 PRATT STREET,,Buffalo,Buffalo,New York,United States,14204
+P0044830441,ALDERSON,DEANNE,1/16/24,Home,42 ROYAL AVE,,Buffalo,Buffalo,New York,United States,14207
+P0044830710,REYES,CARMENCITA,1/16/24,Home,11 ELKINS DRIVE,,Buffalo,Cheektowaga,New York,United States,14225
+P0044830723,KNICKERBOCKER,MARY,1/16/24,Home,156 GOOD AVE,,Buffalo,Buffalo,New York,United States,14220
+P0044830925,EVERETT,RUFUS,1/16/24,Home,8 HERTEL AVE,,Buffalo,Buffalo,New York,United States,14207
+P0044830979,BURNS,MELISSA,1/16/24,Home,99 ROSEVILLE ST,,Buffalo,Buffalo,New York,United States,14210
+P0044831198,NEIMANN,ERICA,1/16/24,Home,74 BOGARDUS STREET,,Buffalo,Buffalo,New York,United States,14206
+P0044831582,DUROLEK,SUSAN,1/16/24,Home,52 POLISH PLACE,,Buffalo,Buffalo,New York,United States,14210
+P0044831778,JONES,ALEXIS,1/16/24,Home,101 DELMAR MITCHELL DRIVE,,Buffalo,Buffalo,New York,United States,14204
+P0044902429,Brown,Candice,2/9/24,Home,226 Lawn Avenue,C,Buffalo,Buffalo,New York,United States,14207
+P0044912088,MOORE,STEPHANIE,11/3/24,Home,124 FOREST AVE  Building 6,#6202,Buffalo,Buffalo,New York,United States,14213
+P0044935844,HARRIS,MARVIN,2/8/24,Home,134 MOHICAN AVE,,Buffalo,Buffalo,New York,United States,14211
+P0044949789,NGUYEN,CAM,2/9/24,Home,1586 CAYUGA RD,,Irving,Irving,New York,United States,14081
+P0044970473,COLBURN,LUCAS,2/13/24,Home,2293 Seneca Street,,Buffalo,Buffalo,New York,United States,14210
+P0045110365,HARDY,DINAH,12/4/24,Home,145 Busti Ave,#202,Buffalo,Buffalo,New York,United States,14201
+P0045241539,Smith,Dion,11/11/24,Home,63 Countess Ave,,Buffalo,Buffalo,New York,United States,14211
+P0045245512,Johnson,Karen,4/23/25,Home,14 Summerwood Ct,,Buffalo,Buffalo,New York,United States,14223
+P0045290948,Parisi,Nicholas,11/11/24,Home,5546 SCRANTON ROAD (RALEIGH BUILDING),3,Hamburg,Hamburg,New York,United States,14075
+P0045297882,Stephens,Dejahnique,5/28/24,Home,179 Lemon St,,Buffalo,Buffalo,New York,United States,14204
+P0045307400,WEIMER,ELIZABETH,3/7/24,Home,10 7TH St,404,Buffalo,Buffalo,New York,United States,14201
+P0045311817,Martel,Barbara,3/8/24,Home,33 Muskingum,Lower,Depew,Depew,New York,United States,14043
+P0045332676,Smith,Linda,11/12/24,Home,1481 West Blood Road,,East Aurora,East Aurora,New York,United States,14052
+P0045335858,HARTZELL,JESSICA,3/13/24,Home,152 INDIAN CHURCH ROAD,UPPER,Buffalo,Buffalo,New York,United States,14210
+P0045337239,Virella,Nilda,11/11/24,Home,2079 Fillmore Ave,,Buffalo,Buffalo,New York,United States,14214
+P0045387176,Paulini,Jessica,1/12/25,Home,203 Grote St.,,Buffalo,Buffalo,New York,United States,14207
+P0045399124,HENRY,DENNISE,3/26/24,Home,326 SOUTHPARK AVE,C,Buffalo,Buffalo,New York,United States,14204
+P0045409295,Fuentes,Julio,3/27/24,Temporary,407 MASSACHUSETTS AVENUE,LOWER,Buffalo,Buffalo,New York,United States,14213
+P0045509053,Savage,Richard,4/18/24,Home,245 North Street,412,Buffalo,Buffalo,New York,United States,14201
+P0045511306,Warner,Charles,11/12/24,Home,19 Wood Ave,Lower,Buffalo,Buffalo,New York,United States,14211
+P0045548991,Sims,Derek,5/16/24,Home,103 15Th St,Upper/Rear,Buffalo,Buffalo,New York,United States,14213
+P0045573480,PERRIN,AUTUMN,11/10/24,Home,83 LOCKWOOD AVENUE - FIR2,,Buffalo,Buffalo,New York,United States,14220
+P0045580760,Sharpe,Christine,1/12/25,Home,10 Hurlock St,,Buffalo,Buffalo,New York,United States,14211
+P0045601091,SMITH,TASHIA,5/7/24,Home,46 WICK STREET,,Buffalo,Buffalo,New York,United States,14212
+P0045601935,ELLIOTT,ABIGAIL,11/12/24,Home,81 EUCLID AVE,,Buffalo,Buffalo,New York,United States,14217
+P0045657513,Santiago,Nydia,1/30/25,Home,134 ISABELLE ST,1B,Buffalo,Buffalo,New York,United States,14207
+P0045711902,Isaacs,Danielle,5/30/24,Home,10 7TH St,221,Buffalo,Buffalo,New York,United States,14201
+P0045718673,Murray Martin,Ameeshia,10/6/24,Home,164 Princeton Ave,4,Amherst,Buffalo,New York,United States,14226
+P0045731105,VILLAREAL,CLAUDICIA,6/3/24,Home,154 W. DELEVAN AVE,,Buffalo,Buffalo,New York,United States,14213
+P0045742306,DECHIRO,GENEVIEVE,6/5/24,Home,25 Empire Street,,Buffalo,Buffalo,New York,United States,14212
+P0045858060,Chmurzynski,Amanda,1/12/25,Home,137 Zenner,,Buffalo,Buffalo,New York,United States,14211
+P0045901963,CONSTANTINO,THERESA,7/1/24,Home,8541 N. MAIN STREET,19,Angola,Angola,New York,United States,14006
+P0045907174,MORRISON,KIMBERLY,7/2/24,Home,97 IMSON STREET,UPPER,Buffalo,Buffalo,New York,United States,14210
+P0045913499,Woods,Janay,7/8/24,Home,51 Schmarbeck Ave,Upper,Buffalo,Buffalo,New York,United States,14212
+P0045950246,CARRASQUILLO,SHAKIRA,1/12/25,Home,64 BROWNELL STREET,,Buffalo,Buffalo,New York,United States,14212
+P0045981607,STRICKER,LISA,7/17/24,Home,446 PROSPECT AVE,UPPER,Buffalo,Buffalo,New York,United States,14201
+P0045992914,Perez,Jaylene,11/4/24,Home,290 Bedford ave,1,Buffalo,Buffalo,New York,United States,14216
+P0046042892,FORD,THERESA,7/29/24,Home,346 DOAT STREET,,Buffalo,Buffalo,New York,United States,14211
+P0046057663,RICHARD,RACHEL,8/1/24,Home,245 NORTH STREET,303,Buffalo,Buffalo,New York,United States,14201
+P0046088126,MONROE,CRYSTAL,8/7/24,Home,99 WARREN AVE,,Buffalo,Buffalo,New York,United States,14212
+P0046101659,BUTTERMILK,ALEX,8/9/24,Home,9 Floreis Ct,,Buffalo,Buffalo,New York,United States,14208
+P0046137422,PORTER,AVA,8/16/24,Home,383 GUILFORD ST,1,Buffalo,Buffalo,New York,United States,14211
+P0046186689,GATES,CANDACE,8/26/24,Home,446 HERKIMER ST,,Buffalo,Buffalo,New York,United States,14213
+P0046186712,VANVOLKENBURG,NATASHA,11/5/24,Home,118 INDIAND CHURCH RD,,,,New York,United States,14210
+P0046192535,MORRISON,DEANNA,8/27/24,Home,103 DAVIDSON AVE,,Buffalo,Buffalo,New York,United States,14215
+P0046201636,GHOLSTON,DEANNA,8/29/24,Home,4 ALICE COURT,,Buffalo,Buffalo,New York,United States,14203
+P0046204071,Holtz,Orlando,11/10/24,Home,324 Parker,,Buffalo,Buffalo,New York,United States,14216
+P0046209411,Weir,Danielle,2/24/25,Home,97 Tracy Pkwy,,Buffalo,Buffalo,New York,United States,14218
+P0046229117,RAMIREZ,MYRIAM,9/4/24,Home,254 NIAGARA STREET,,Buffalo,Buffalo,New York,United States,14201
+P0046301089,WEKENMANN,RICHARD,1/12/25,Home,51 LARK ST,REAR,Buffalo,Buffalo,New York,United States,14211
+P0046317154,JONES,KRISTI,9/12/24,Home,270 LOCUST ST,,Buffalo,Buffalo,New York,United States,14204
+P0046319870,CASEY,LORI,9/12/24,Home,619 PRESTON AVE,UPPER,Buffalo,Buffalo,New York,United States,14214
+P0046340969,RICK,NICOLE,9/17/24,Home,1866 SOUTH PARK AVE.,2,Buffalo,Buffalo,New York,United States,14220
+P0046352090,Jones,Mekai,9/19/24,Home,140 Tudor Road,,Buffalo,Buffalo,New York,United States,14215
+P0046371181,D'AMICO,CHRISTINE,9/23/24,Home,69 BLUM AVE,,Buffalo,Buffalo,New York,United States,14216
+P0046377584,HANGEN,EMILY,9/24/24,Home,28 KEHR ST,,Buffalo,Buffalo,New York,United States,14211
+P0046381882,Maund,Kimberly,10/6/24,Home,144 Burch Ave,Lower,Buffalo,Buffalo,New York,United States,14210
+P0046393599,PORTER,LISA,9/27/24,Home,305 SOBIESKI ST,C,Buffalo,Buffalo,New York,United States,14211
+P0046393687,DOUGLAS,DOMONIQUE,9/27/24,Home,322 MADISON STREET,,Buffalo,Buffalo,New York,United States,14212
+P0046407601,FELICIANO,TYLER,9/30/24,Home,36 HENLEY ROAD,,Buffalo,Buffalo,New York,United States,14216
+P0046419929,SMITH,JOSEPH,10/2/24,Home,1200 NIAGARA FALLS BLVD,7,North Tonawanda,North Tonawanda,New York,United States,14120
+P0046429869,CORDERO,MARIA,10/4/24,Home,10 7TH STREET,619,Buffalo,Buffalo,New York,United States,14201
+P0046443026,Antonio,Fasha,10/6/24,Home,3640 Lakeview Avenue,,Blasdell,Buffalo,New York,United States,14219
+P0046443184,Echols,Steven,10/6/24,Home,355 Gold Street,,Buffalo,Buffalo,New York,United States,14206
+P0046443921,Perez,Waleska,10/6/24,Home,290 Bedford Avenue,,Buffalo,Buffalo,New York,United States,14216
+P0046443930,Class,Diamante,10/6/24,Home,568 Niagara Street,4,Buffalo,Buffalo,New York,United States,14207
+P0046443944,Meyers,Candace,10/6/24,Home,365 Englewood Ave,4,Buffalo,Buffalo,New York,United States,14223
+P0046443955,Gay,Holiday,10/6/24,Home,391 Wyoming Avenue,,Buffalo,Buffalo,New York,United States,14215
+P0046443982,Gollasch,Ashley,10/6/24,Home,64 Academy Road,4,Buffalo,Buffalo,New York,United States,14211
+P0046449303,Mills,Brendon,10/7/24,Home,2656 Ontario Ave,,Niagara Falls,Niagara Falls,New York,United States,14305
+P0046449310,Hunt,Heather,10/7/24,Home,622 72 nd Street,,Niagara Falls,Niagara Falls,New York,United States,14304
+P0046449363,Colangelo,Nancy,10/7/24,Home,1010 Kenmore Avenue,5,Buffalo,Buffalo,New York,United States,14216
+P0046449379,Rick,Nichole,10/7/24,Home,619 Crescent Ave,,Buffalo,Buffalo,New York,United States,14214
+P0046452567,Renaldo,Abby,10/8/24,Home,410 HERTEL AVE,,Buffalo,Buffalo,New York,United States,14207
+P0046460008,ZAMBOROWSKI,NANCY,10/29/24,Home,4647 SOUTHWESTERN BLVD,342,Hamburg,Hamburg,New York,United States,14075
+P0046466229,BURDZY,VICTORIA,3/18/25,Home,184 WEAVER,,Buffalo,Buffalo,New York,United States,14206
+P0046468720,Henry,Sheninah,10/11/24,Home,41Trameu Walk,,South Buffalo,Buffalo,New York,United States,14204
+P0046496476,ANDERSON,RASHIEN,11/12/24,Home,26 BERWYN AVENUE,2,Buffalo,Buffalo,New York,United States,14215
+P0046525982,CORREA,JOSE,10/22/24,Home,51 LARK ST,LOWER,Buffalo,Buffalo,New York,United States,14211
+P0046526202,MAURO,ISABELLA,10/22/24,Home,3606 JAMES STREET,,Buffalo,Buffalo,New York,United States,14219
+P0046535239,WASHINGTON,JOZANNA,10/23/24,Home,10 7TH STREET,109,Buffalo,Buffalo,New York,United States,14201
+P0046535715,Martin,Bridget,1/12/25,Home,9230 North St.,#29,Springville,Springville,New York,United States,14141
+P0046582894,WORTHY,ICSIS,11/4/24,Home,2726 MAIN STREET,26,Buffalo,Buffalo,New York,United States,14214
+P0046591377,Heflin,Leroy,11/3/24,Home,307 Hempstead Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046591473,Carmen,Kari,11/3/24,Home,22 Lester Street,2,Buffalo,Buffalo,New York,United States,14210
+P0046591562,Rogers,Shannon,11/3/24,Home,17 Abbottsford Place,Upper,Buffalo,Buffalo,New York,United States,14213
+P0046591696,Malczewski,Michelle,11/3/24,Home,204 Claude Dr,,Cheektowaga,Cheektowaga,New York,United States,14206
+P0046591988,Ribaudo,Silver,11/3/24,Home,162 S Main Street,,Holland,Holland,New York,United States,14080
+P0046592061,Miller,Barbara,11/3/24,Home,2228 Old Union Road,,Cheektowaga,Cheektowaga,New York,United States,14227
+P0046592126,Awal,Abdul,12/3/24,Home,172 St. Felix Ave,,Cheektowaga,Buffalo,New York,United States,14227
+P0046592192,Brunner,Tina,11/3/24,Home,328 Reiman St,,Cheektowaga,Buffalo,New York,United States,14212
+P0046592343,Ernst,Amy,11/3/24,Home,334 Woodsida Ave,,Buffalo,Buffalo,New York,United States,14220
+P0046592413,Niemann,Erica,11/3/24,Home,74 Bogarbus St,,Buffalo,Buffalo,New York,United States,14206
+P0046592584,Alejandro,Robin,11/3/24,Home,912 Lafayette Ave,,Buffalo,Buffalo,New York,United States,14209
+P0046592624,Eskander,Taiba,11/3/24,Home,322 Little Robin Rd,,Amherst,Buffalo,New York,United States,14228
+P0046592686,Hornung,Cathy,11/3/24,Home,190 Marengo St,,Depew,Depew,New York,United States,14043
+P0046592763,Kemembin,Marie,11/3/24,Home,420 Jersey Street,,Buffalo,Buffalo,New York,United States,14213
+P0046592781,Gannon,Colleen,11/3/24,Home,1774 Military Rd,29,Kenmore,Buffalo,New York,United States,14217
+P0046598247,D'LOBITA,SOREN,11/4/24,Home,120 18TH STREET,UPPER,Buffalo,Buffalo,New York,United States,14213
+P0046598786,Patterson,Rea,11/4/24,Home,472 East Ferry Street,,Buffalo,Buffalo,New York,United States,14208
+P0046598838,Westling,Kevin,11/4/24,Home,99 Lind Ave,,West Seneca,West Seneca,New York,United States,14224
+P0046598887,Williams,Marie,11/4/24,Home,37 Lemans Dr,,Depew,Depew,New York,United States,14043
+P0046598907,Lockett,Taralyn,11/4/24,Home,121 Wilkes Ave.,B,Buffalo,Buffalo,New York,United States,14215
+P0046598972,Hassan,Shirley,11/4/24,Home,121 Godfrey,,Buffalo,Buffalo,New York,United States,14215
+P0046599007,Davis,Ryan,11/4/24,Home,8521 Porter Rd,85,Niagara Falls,Niagara Falls,New York,United States,14304
+P0046599032,Baumler,Gail,11/4/24,Home,4519 Union Rd,,Buffalo,Buffalo,New York,United States,14225
+P0046599060,Williams,Jennifer,11/4/24,Home,11 Fedro St,,Buffalo,Buffalo,New York,United States,14206
+P0046599072,Dainotto,Erica,11/4/24,Home,8951 Boston State Rd,102,Boston,Boston,New York,United States,14025
+P0046599082,Rydza,Ashley,11/4/24,Home,180 Hamilton Dr,,Buffalo,Buffalo,New York,United States,14226
+P0046599155,Kurtzworth,Amber,11/4/24,Home,165 Cedargrove Circle,,Cheektowaga,Buffalo,New York,United States,14225
+P0046599163,Davis,Jake,11/4/24,Home,163 cedar Grove Circle,,C,Buffalo,New York,United States,14225
+P0046599177,Jablonski,Ashley,11/4/24,Home,22 beechwood Pl,4,Cheektowaga,Buffalo,New York,United States,14225
+P0046599182,Adolf,Amber,11/4/24,Home,49 Armin Place,,Buffalo,Buffalo,New York,United States,14210
+P0046604437,Luna,Sandy,11/5/24,Home,55 Ryan St.,,Buffalo,North Tonawanda,New York,United States,14120
+P0046604460,Mitchell,Jasmine,11/5/24,Home,1962 Bailey Ave,,Buffalo,Buffalo,New York,United States,14211
+P0046604479,Ashford,Lamar,11/5/24,Home,319 Northland Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046604488,BROOKS,KY'JUAN,11/5/24,Home,15 N Central Ave,,Buffalo,Buffalo,New York,United States,14212
+P0046604499,Lima,Rosemarie,11/5/24,Home,73 Dorrance Ave,,Lackawanna,Buffalo,New York,United States,14218
+P0046604517,Reyes,Chris,11/5/24,Home,3890 Teachers Lane,,Orchard Park,Orchard Park,New York,United States,14127
+P0046604523,Linder,Julia,11/5/24,Home,1021 Reserve Rd,,West Seneca,Buffalo,New York,United States,14221
+P0046604532,Taylor,Crystal,11/5/24,Home,411 Madison St,,Buffalo,Buffalo,New York,United States,14212
+P0046604541,Koch,Amanda,11/5/24,Home,7491 Boston State Rd,,Hamburg,Hamburg,New York,United States,14075
+P0046604564,Lefever,Khalia,11/5/24,Home,2001 Main St,,Buffalo,Buffalo,New York,United States,14208
+P0046604608,D'Innocenzo,Mary,11/5/24,Home,82 Pierce ave,A3,Hamburg,Hamburg,New York,United States,14075
+P0046604618,Kasperek,Richard,11/5/24,Home,46 Hillcrest,,Tonawanda,Tonawanda,New York,United States,14150
+P0046604621,Smith,Tahrae,11/5/24,Home,130 Debra Lane,,Buffalo,Buffalo,New York,United States,14207
+P0046604635,Alexandres,Avye,11/5/24,Home,137 Edna Place,,Buffalo,Buffalo,New York,United States,14209
+P0046629802,Haile,Yoslene,11/10/24,Home,40 Millicent Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046629868,Huey,Jason,11/10/24,Home,159 Sumner Place,,Buffalo,Buffalo,New York,United States,14210
+P0046629892,Shadle,Josephine,11/10/24,Home,185 Delevan Ave,,Angola,Angola,New York,United States,14006
+P0046629933,Miller,Eric,11/10/24,Home,263 Sobieski St.,Front #1,Buffalo,Buffalo,New York,United States,14211
+P0046630028,Park,Mary,11/10/24,Home,150 Riverdale,,Buffalo,Buffalo,New York,United States,14207
+P0046630183,Portzline,Daisy,11/10/24,Home,6 Shelley Ct,,Tonawanda,Tonawanda,New York,United States,14150
+P0046630270,Miller,Michelle,11/10/24,Home,47 Aldrich St,,Gowanda,Gowanda,New York,United States,14070
+P0046630316,Miller,Steven,11/10/24,Home,355 Gold,,Buffalo,Buffalo,New York,United States,14206
+P0046631151,Lawson,Anna,11/11/24,Home,56 Elam St,,Jamestown,Jamestown,New York,United States,14701
+P0046631152,Doumbauya,Francesca,11/11/24,Home,2946 Weston Ave,,Niagara Falls,Niagara Falls,New York,United States,14305
+P0046631153,Ribuado,Amnada,11/11/24,Home,1481 West Blood St,,East Aurora,East Aurora,New York,United States,14052
+P0046631155,Coelho,Anita,11/11/24,Home,76 Commodore Ave,,Tonawanda,Tonawanda,New York,United States,14150
+P0046631156,Queer,Jerry,11/11/24,Home,32 Roland,,Buffalo,Buffalo,New York,United States,14218
+P0046631158,Leib,Rona,11/11/24,Home,285 Peppertree Dr,,Buffalo,Buffalo,New York,United States,14228
+P0046631159,Rovillo,Michelle,11/11/24,Home,64 Frank Ave,,Buffalo,Buffalo,New York,United States,14210
+P0046631164,Pawelski,Nicole,11/11/24,Home,372 Dorrance Ave,,Buffalo,Buffalo,New York,United States,14220
+P0046631167,McKenna,Ethan,11/11/24,Home,870 Lafayette Ave,204,Buffalo,Buffalo,New York,United States,14209
+P0046631173,Hirsch,Alyssa,11/11/24,Home,5570 South Park Ave,,Hamburg,Hamburg,New York,United States,14075
+P0046631177,Echols,Andrea,11/11/24,Home,74 Bougardus St.,,Buffalo,Buffalo,New York,United States,14211
+P0046631180,Benintende,Cindy,11/11/24,Home,233 Barton St,,Buffalo,Buffalo,New York,United States,14213
+P0046631182,Lindner,Julie,11/11/24,Home,1021 Reserve Rd.,,West Seneca,Buffalo,New York,United States,14224
+P0046631184,Holden,Lauren,11/11/24,Home,80 Richmond,3,Buffalo,Buffalo,New York,United States,14222
+P0046631186,Davila,Jayson,11/11/24,Home,3880 Abbott Rd,,Orchard Park,Orchard Park,New York,United States,14127
+P0046633877,Waidell,Hannah,11/11/24,Home,260 French Rd,,Depew,Depew,New York,United States,14043
+P0046634002,Blocker,Grace,11/11/24,Home,100 South Perry St,,Perry,Perry,New York,United States,14530
+P0046634075,Banks,Pamela,11/11/24,Home,555 Claremont Ave,,Tonawanda,Buffalo,New York,United States,14223
+P0046634106,Medina,Jaime,11/11/24,Home,11159 S Lake Road,,Buffalo,Buffalo,New York,United States,14203
+P0046634162,Dixson,Danielle,11/11/24,Home,90 Meyer,,Buffalo,Buffalo,New York,United States,14211
+P0046634179,Perlino,Larry,11/11/24,Home,31 Veterans Place,,Buffalo,Buffalo,New York,United States,14211
+P0046634221,Dibble,Alexis,11/11/24,Home,406 Schiller St,,Buffalo,Buffalo,New York,United States,14212
+P0046634323,Ortiz,Zai,11/11/24,Home,31 Flohr,,Buffalo,Buffalo,New York,United States,14224
+P0046634334,Jaros,Jacqueline,11/11/24,Home,2101 Transit Rd,,Elma,Elma,New York,United States,14059
+P0046634355,Serrano,Yajaira,11/11/24,Home,224 Niagara St,209,Buffalo,Buffalo,New York,United States,14201
+P0046634374,Griffin,Keith,11/11/24,Home,23 Carl St.,,Buffalo,Buffalo,New York,United States,14211
+P0046634626,Taggart,Kris,11/11/24,Home,2715 Eggert Rd,,Tonawanda,Tonawanda,New York,United States,14150
+P0046634669,Brooks,Mandy,11/11/24,Home,4 Windwood Ct,,Buffalo,Buffalo,New York,United States,14225
+P0046634732,Ladowski,Gina,11/11/24,Home,52 Standard Pkwy,,Cheektowaga,Buffalo,New York,United States,14227
+P0046634758,Lobita,Axel,11/11/24,Home,120 18th St,2,Buffalo,Buffalo,New York,United States,14213
+P0046634765,Ventura,Jennifer,11/11/24,Home,121 Hertel Ave,A,Buffalo,Buffalo,New York,United States,14207
+P0046634791,Muharram,Georaan,11/11/24,Home,36 Hewitt Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046634799,Jeter,Montaysha,11/11/24,Home,122 Oakmont Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046635310,Ware,Brittany,11/12/24,Home,492 Gould Ave,Upper,Depew,Depew,New York,United States,14043
+P0046635331,Hudson,Sara,11/12/24,Home,74 W. Cleveland St,,Cheektowaga,Buffalo,New York,United States,14215
+P0046635371,Stabley,Cynthia,11/12/24,Home,160 Sumner Place,,Buffalo,Buffalo,New York,United States,14210
+P0046635397,Mount,Bethany,11/12/24,Home,599 Wyoming Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046635428,Sobocinski,Megan,11/12/24,Home,345 Gold St,,Buffalo,Buffalo,New York,United States,14206
+P0046635456,Perry,Wendy,11/12/24,Home,5074 Electric Ave,,Hamburg,Hamburg,New York,United States,14075
+P0046635480,Mossop,Lisa,11/12/24,Home,1772 Pontiac Rd,,Evans,Angola,New York,United States,14006
+P0046635512,Tyson,Kourtney,11/12/24,Home,16 Woodward Way,,Lackawanna,Buffalo,New York,United States,14218
+P0046635575,Strachan,Dan,11/12/24,Home,129 Harvard,,Depew,Depew,New York,United States,14043
+P0046635602,Bindie,Brittany,11/12/24,Home,29 Aurora,4,West Seneca,Buffalo,New York,United States,14224
+P0046635615,Morgan,Jim,11/12/24,Home,10442 Main St,,Clarence,Clarence,New York,United States,14031
+P0046635645,Francais,Mary,11/12/24,Home,53 A Emerson Place,,Buffalo,Buffalo,New York,United States,14209
+P0046635674,Ranney,Briana,11/12/24,Home,28 C Gibson St,,Tonawanda,Tonawanda,New York,United States,14150
+P0046635728,Almasi,Cassandra,11/12/24,Home,50 Hastings,B,Buffalo,Buffalo,New York,United States,14214
+P0046635870,Sciarrino,Tiffany,11/12/24,Home,302 Barnard St,,Buffalo,Buffalo,New York,United States,14206
+P0046635883,Stroka,Sarah,11/12/24,Home,18 Newell Ave,,Lancaster,Lancaster,New York,United States,14086
+P0046636407,Ramsey,Shanta,11/12/24,Home,139 Ross,,Buffalo,Buffalo,New York,United States,14207
+P0046636437,Froebel,Abigail,11/12/24,Home,1121 Parker Blvd,,Tonawanda,Buffalo,New York,United States,14223
+P0046636614,Martinez,Kiara,11/12/24,Home,64 Holbrook St,,Lackawanna,Buffalo,New York,United States,14218
+P0046636761,Dones,Madeline,11/12/24,Home,120 Barton St,,Buffalo,Buffalo,New York,United States,14213
+P0046636883,Curry,Vanesha,11/12/24,Home,77 David,Upper,Buffalo,Buffalo,New York,United States,14211
+P0046637006,Serritella,Lisa,11/12/24,Home,67 S. Fisher Rd,,Buffalo,Buffalo,New York,United States,14218
+P0046637081,Cardone,Tim,11/12/24,Home,33 Parkside Ave,,Angola,Angola,New York,United States,14006
+P0046637150,Fernandez,Melissa,11/12/24,Home,121 Indian Church Rd,,Buffalo,Buffalo,New York,United States,14210
+P0046637214,Neal,Sandora,11/12/24,Home,211 East Eagle,604,Buffalo,Buffalo,New York,United States,14204
+P0046637383,Frank,Kris,11/12/24,Home,130 Sunset Lane,,Arcade,Arcade,New York,United States,14009
+P0046637455,Castro,Ruth,11/12/24,Home,146 Bush St,,Buffalo,Buffalo,New York,United States,14207
+P0046637493,Antos,Gabriel,11/12/24,Home,581 Richmond Ave,,Buffalo,Buffalo,New York,United States,14222
+P0046637570,Marinaccio,Leslie,11/12/24,Home,130 Francis Ave,,Buffalo,Buffalo,New York,United States,14212
+P0046637759,Hackett,Erinn,11/12/24,Home,134 Condon Ave,B,Buffalo,Buffalo,New York,United States,14207
+P0046701649,Higgs,Theresa,1/7/25,Home,55 Paul Pl,,Buffalo,Buffalo,New York,United States,14210
+P0046718154,Khan,Obaidullah,12/16/24,Home,218 LONGNECKER,,Buffalo,Buffalo,New York,United States,14206
+P0046744604,Afamson,L. Lettie,12/3/24,Home,555 Sycamore St,,Buffalo,Buffalo,New York,United States,14212
+P0046745274,Baez,Edna,12/3/24,Home,25 Harvey Pl,1,Buffalo,Buffalo,New York,United States,14210
+P0046746027,BELL,TYRESSE,12/3/24,Home,471 FILLMORE AVE,LOWER,Buffalo,Buffalo,New York,United States,14206
+P0046749194,Shaughnessy,Kory,12/4/24,Home,415 Harding Rd,,Williamsville,Buffalo,New York,United States,14221
+P0046749272,Reid,Shayna,12/4/24,Home,219 Rodney Ave,,Buffalo,Buffalo,New York,United States,14214
+P0046749484,Cotton,Jackeline,12/4/24,Home,955 West Ave,,Buffalo,Buffalo,New York,United States,14213
+P0046749542,Rodgers,Toni,12/4/24,Home,382 Hickory St,,Buffalo,Buffalo,New York,United States,14204
+P0046749594,Sharpe,Jermaine,12/4/24,Home,471 fillmore Ave,,Buffalo,Buffalo,New York,United States,14206
+P0046749618,Walker,Deshawna,12/4/24,Home,70 Adams St,,Buffalo,Buffalo,New York,United States,14206
+P0046749654,Frick,Sandy,12/4/24,Home,50 King Rd,,Elma,Elma,New York,United States,14059
+P0046749849,McClure,Mary Louise,12/4/24,Home,431 Koons Ave,,Buffalo,Buffalo,New York,United States,14211
+P0046750040,Kent,Shelly,12/4/24,Home,177 Wallace Ave,,Cheektowaga,Buffalo,New York,United States,14227
+P0046839235,Howard,Richard,1/6/25,Home,112 INGHAM AVENUE,2,Buffalo,Lackawanna,New York,United States,14218
+P0046861196,BAEZ QUINONES,YOMARY,1/7/25,Home,25 Harvey Pl,2,Buffalo,Buffalo,New York,United States,14210
+P0046861561,BANTIN,MICHELLE,1/7/25,Home,166 Cedar Grove Circle,,Cheektowaga,Buffalo,New York,United States,14225
+P0046883774,Yarborough,Zaynh,12/28/24,Home,838 Michigan Ave,,Buffalo,Buffalo,New York,United States,14203
+P0046883878,St. John Threat,Javon,12/28/24,Home,2113 Bailey Ave,,Buffalo,Buffalo,New York,United States,14211
+P0046883986,Schmigiel,Alexis,12/28/24,Home,403 Benzinger,,Buffalo,Buffalo,New York,United States,14221
+P0046884056,Campechano,Yarlenis,12/28/24,Home,Ludington St,,Buffalo,Buffalo,New York,United States,14206
+P0046884112,Rogers,Hannah,12/28/24,Home,12885 Broadway St,12,Alden,Alden,New York,United States,14004
+P0046884332,Mendoza,Ivelisse,12/28/24,Home,2561 Genesee St,,Cheektowaga,Buffalo,New York,United States,14225
+P0046884492,Mau,Mary,12/28/24,Home,3450 Howard,41,Hamburg,Hamburg,New York,United States,14075
+P0046884554,Spears,Essince,12/28/24,Home,43 Collins Walk,41,Hamburg,Hamburg,New York,United States,14075
+P0046884628,Borrows,Crystal,12/28/24,Home,633 Howard St,,Buffalo,Buffalo,New York,United States,14206
+P0046884712,Blocho,Michael,12/28/24,Home,2585 Pleasant Ave,,Lake View,Lake View,New York,United States,14085
+P0046884804,Hammond,Trisia,12/28/24,Home,545 NIAGARA ST.,,Buffalo,Buffalo,New York,United States,14201
+P0046893195,GATES,BERNARD,12/30/24,Home,1290 DELAWARE AVE,,Buffalo,Buffalo,New York,United States,14208
+P0046893389,GRANT-LOFTON,VERA,12/30/24,Home,33 SIMON ST,,Buffalo,Brant,New York,United States,14027
+P0046893537,GRILLON,LUCY,1/7/25,Home,33 DIRKSON AVE,,Buffalo,Buffalo,New York,United States,14224
+P0046904466,Merritt,Susan,1/12/25,Home,105 Franklin,,Buffalo,Lackawanna,New York,United States,14218
+P0046927240,SANTIAGO,LYDIA,1/6/25,Home,146 ORLANDO ST,UPPER,Buffalo,Buffalo,New York,United States,14210
+P0046935308,Hardy,Nina,1/7/25,Home,4785 Chestnut Ridge Road,,Amherst,Buffalo,New York,United States,14228
+P0046935987,JANISZESKI,BRIANNE,1/7/25,Home,6352 PATCHIN ROAD,,Boston,Boston,New York,United States,14025
+P0046939571,WATERS,TANISHA,1/8/25,Home,287 EDISON AVE,,Buffalo,Buffalo,New York,United States,14215
+P0046945556,TUPER,PATRICIA,1/9/25,Home,180 CENTER ROAD,2H,Buffalo,West Seneca,New York,United States,14224
+P0046962567,Fryer,Austen,1/12/25,Home,466 Weimar St,2,Buffalo,Buffalo,New York,United States,14206
+P0046962577,Probst,Julianna,1/12/25,Home,204 Glenhaven Dr,,Amherst,Buffalo,New York,United States,14228
+P0046962600,Dumas,Camille,1/12/25,Home,69 Haller Ave,,Buffalo,Buffalo,New York,United States,14211
+P0046962622,Jones,Stacia,1/12/25,Home,140 Seventh St.,,Buffalo,Buffalo,New York,United States,14201
+P0046962654,Staples,Marc-Anthony,1/12/25,Home,119 Germain St,,Buffalo,Buffalo,New York,United States,14207
+P0046962682,Walcott,Unica,1/12/25,Home,362 East Ferry St,,Buffalo,Buffalo,New York,United States,14208
+P0046962695,Bremer,Zachary,1/12/25,Home,36 Sprucewood Dr,,Buffalo,Buffalo,New York,United States,14227
+P0046962749,Lombardo,Kathleen,1/12/25,Home,473 Babcock St,rear,Buffalo,Buffalo,New York,United States,14206
+P0046962765,Costantino,Debbie,1/12/25,Home,1048 Karen Dr,,Angola,Angola,New York,United States,14006
+P0046962780,Razick,Samira,1/12/25,Home,70 Lilac St,,Buffalo,Buffalo,New York,United States,14220
+P0046962835,Kidd,Dante,1/12/25,Home,3 Doehaven Circle,,Depew,Depew,New York,United States,14043
+P0046962865,Huertas,Eliott,1/12/25,Home,18 Swimburne St,,Buffalo,Buffalo,New York,United States,14212
+P0046962900,Carrasquillo,Carlos,1/12/25,Home,3672 Horton Ave,,Buffalo,Buffalo,New York,United States,14219
+P0046963632,MacEwen,Cheryl,1/12/25,Home,111 Porter Ave,220,Buffalo,Buffalo,New York,United States,14201
+P0046963660,Brewster,Tammy,1/12/25,Home,15 Gerald St,,Buffalo,Buffalo,New York,United States,14215
+P0046963686,Fisher,Julia,1/12/25,Home,96 Northcrest Ave,,Cheektowaga,Buffalo,New York,United States,14225
+P0046963725,Joyce,Krystle,1/12/25,Home,44 Gorski St,,Buffalo,Buffalo,New York,United States,14206
+P0046963857,Southern,Martina,1/12/25,Home,56 Linda Dr,5,Buffalo,Buffalo,New York,United States,14225
+P0046963899,McClain,Shannon,1/12/25,Home,228 71st St,,Niagara Falls,Niagara Falls,New York,United States,14304
+P0046964000,Miller,Kaylie,1/12/25,Home,1 Slate Creek dr,9,Cheektowaga,Buffalo,New York,United States,14227
+P0046964109,Vasquez,Kayla,1/12/25,Home,2009 Seneca St,,West Seneca,Buffalo,New York,United States,14210
+P0046964494,Reed,Judi,1/12/25,Home,22 Laurel St.,,Buffalo,Buffalo,New York,United States,14209
+P0046964509,Rosendary,Charmaine,1/12/25,Home,387 Wyoming Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046964509,Rosendary,Charmaine,1/12/25,Home,387 Wyoming Ave,,Buffalo,Buffalo,New York,United States,14215
+P0046964577,Boivin,Tiffany,1/12/25,Home,315 Woltz Ave,,Buffalo,Buffalo,New York,United States,14211
+P0046965134,Jones,Tina,1/12/25,Home,181 Jewett Ave,,Buffalo,Buffalo,New York,United States,14214
+P0046965144,Burtis,Melissa,1/12/25,Home,244 Grant St,,Buffalo,Buffalo,New York,United States,14213
+P0046965175,Miller,Sarah,1/12/25,Home,46 Sunset Dr,,Delevan,Delevan,New York,United States,14042
+P0046965182,VanBuren,Chad,1/12/25,Home,27 Wesley Dr,,Akron,Akron,New York,United States,14001
+P0046965191,Jackson,Karon,1/12/25,Home,120 Leonard Post Drive,,Buffalo,Buffalo,New York,United States,14211
+P0046965197,Jackson,Keyarra,1/12/25,Home,315 Grandview,,Tonawanda,Buffalo,New York,United States,14223
+P0046974097,KARCHER,NANCY,1/14/25,Home,22 SANDSTONE DR,,Cheektowaga,Buffalo,New York,United States,14225
+P0046975090,KRESS,MICHELLE,1/14/25,Home,15 AVERY AVE,,LACKAWANNA,Buffalo,New York,United States,14215
+P0046975453,KUBIAK,CAITLIN,1/14/25,Home,269 AUSTIN ST,,Buffalo,Buffalo,New York,United States,14207
+P0046990390,GAMBINO,AMY,1/16/25,Home,848 FRENCH ROAD,2,Buffalo,Cheektowaga,New York,United States,14227
+P0047007785,ELARDO,KASIE,4/22/25,Home,391 GRANT ST.,,Buffalo,Buffalo,New York,United States,14213
+P0047048089,CARRASQUILLO,SALEASHA,3/18/25,Home,234 LATHROP STREET,,Buffalo,Buffalo,New York,United States,14211
+P0047056640,Lockett,Nija,1/28/25,Home,207 Hagen,,Buffalo,Buffalo,New York,United States,14215
+P0047075868,SMITH-WASHINGTON,SHATLEY,1/31/25,Home,75 SATTLER AVE,UPPER,Buffalo,Buffalo,New York,United States,14211
+P0047075917,OAKES,KAILYN,1/31/25,Home,273 GEORGIA STREET,310,Buffalo,Buffalo,New York,United States,14201
+P0047092105,NEIMANN,ANN,2/3/25,Home,78 BARYTON STREET,LOWER,Buffalo,Buffalo,New York,United States,14213
+P0047096356,MATLOCK,BRETT,2/4/25,Home,2029 ABBOTT ROAD,,Buffalo,Buffalo,New York,United States,14218
+P0047098326,Meriwether,Javonte,2/4/25,Home,130 Garden Village Dr,,Cheektowaga,Buffalo,New York,United States,14227
+P0047099528,Newton,Cindy,2/4/25,Home,164 Melrose,#1,Buffalo,Buffalo,New York,United States,14210
+P0047115581,Brackett,Donieha,2/7/25,Home,694 West Ave,,Buffalo,Buffalo,New York,United States,14213
+P0047133092,PAGAN,MIA,2/11/25,Home,1518 Seneca St,B,Buffalo,Buffalo,New York,United States,14210
+P0047133860,RIVERA,ZEQUIALYS,2/11/25,Home,269 Georgia St,,Buffalo,Buffalo,New York,United States,14201
+P0047133974,ROSE,JASMINE,2/11/25,Home,57 Olcott Ave,,Lackawanna,Buffalo,New York,United States,14218
+P0047134111,ROSS,LAQUITA,2/11/25,Home,125 Mortimer St,,Buffalo,Buffalo,New York,United States,14204
+P0047140828,Ceranski,Janelle,3/18/25,Home,5442 Camp Rd,207,Hamburg,Hamburg,New York,United States,14075
+P0047167011,THOMPSON,KIEA,2/18/25,Home,73 ZITTEL ST,,Buffalo,Buffalo,New York,United States,14210
+P0047167468,UPCHURCH,SONJA,2/18/25,Home,2766 ANGLE RD,,Orchard Park,Orchard Park,New York,United States,14127
+P0047167782,WALKER,JESSIE,2/18/25,Home,2318 MAIN ST UPPER FRONT,,Buffalo,Buffalo,New York,United States,14214
+P0047167888,WILLIAMS,MARIE,2/18/25,Home,19 HEDWIG,,Buffalo,Buffalo,New York,United States,14211
+P0047195448,BURNETT,SUSAN,2/24/25,Home,133 ROSS AVE,,Buffalo,Buffalo,New York,United States,14207
+P0047219155,LOPEZ,MITTZZI,2/28/25,Home,197 SMITH STREET,2,Buffalo,Buffalo,New York,United States,14210
+P0047230126,PERRY,ABIGAIL,3/3/25,Home,168 FRANCIS AVE,,Buffalo,Sloan,New York,United States,14212
+P0047270666,BECKER,MARY,3/11/25,Home,6924 BOSTON CROSS RD,,Boston,Boston,New York,United States,14025
+P0047270869,BEIRING,DEBBIE,3/11/25,Home,34 RYAN ST,,Buffalo,Buffalo,New York,United States,14210
+P0047270976,BENEFIELD,KENDRA,3/11/25,Home,42 COLLINS WALK,,Buffalo,Buffalo,New York,United States,14215
+P0047271477,BOLDEN,TINA,3/11/25,Home,2053 GENESEE ST,4,Buffalo,Buffalo,New York,United States,14211
+P0047271824,BOXHORN,TYLER,3/11/25,Home,339 TREMONT AVE,,KENMORE,Buffalo,New York,United States,14217
+P0047272160,BULERA,DANIEL,3/11/25,Home,212 KOONS AVE,,Buffalo,Buffalo,New York,United States,14211
+P0047304182,BURTIS,PAMELA,3/18/25,Home,88 SHANLEY ST,,Cheektowaga,Buffalo,New York,United States,14206
+P0047304787,COLBURN,LUKE,3/18/25,Home,321 NORTHHAMPTON,,Buffalo,Buffalo,New York,United States,14208
+P0047304838,COLON,ALICIA,3/18/25,Home,1003 E. LOVEJOY ST,,Buffalo,Buffalo,New York,United States,14206
+P0047321526,CASEY,LAURIE,3/21/25,Home,1866 South Park Ave,,Buffalo,Buffalo,New York,United States,14220
+P0047338424,COOPER,GABRIELLE,3/25/25,Home,619 ADAMS ST,,Buffalo,Buffalo,New York,United States,14211
+P0047339029,CRUZ,ELIZABETH,3/25/25,Home,139 HAMPSHIRE ST,,Buffalo,Buffalo,New York,United States,14213
+P0047339573,DAVIS,JANICE,3/25/25,Home,249 LINWOOD AVE,,Buffalo,Buffalo,New York,United States,14209
+P0047339669,DAVIS,SHAQUANA,3/25/25,Home,29 BEITER WALK,,Buffalo,Buffalo,New York,United States,14215
+P0047439671,DALTON,TAMMY,4/4/25,Home,84 HAVEN STREET,LOWER,Buffalo,Buffalo,New York,United States,14211
+P0047491157,DEPCZYNSKI,BARRY,4/15/25,Home,299 INDIAN CHURCH RD,,WEST SENECA,Buffalo,New York,United States,14210
+P0047491596,DUNMIRE,ADAM,4/15/25,Home,167 CEDAR GROVE CIR,,CHEEKTOWAGA,Buffalo,New York,United States,14225
+P0047522163,DUNN,WILLIAM,4/22/25,Home,41 LUDINGTON,,Buffalo,Buffalo,New York,United States,14206
+P0047522713,FLOSS,JOSH,4/22/25,Home,102 HOLLAND AVE,LOWER REAR,Lancaster,Lancaster,New York,United States,14086
+P0047523223,GOMOLSKI,MELISSA,4/22/25,Home,82 KELBURN ST,,Buffalo,Buffalo,New York,United States,14206
+P0047556402,BEY,GILDA,4/29/25,Home,209 STEVENS AVE,,Buffalo,Buffalo,New York,United States,14215
+P0047556509,HOOVER,JASON,4/29/25,Home,145 HINCHE AVE,,Lancaster,Lancaster,New York,United States,14086
+P0047596842,RICK,ZACHARY,5/7/25,Home,118 ABBOTT ROAD,2,Buffalo,Buffalo,New York,United States,14220
+P0047624134,JOHNS,ERICA,5/13/25,Home,5074 LOWER CT,,Hamburg,Hamburg,New York,United States,14075
+P0047624624,KAIRA,ABDUL,5/13/25,Home,50 EAST UTICA ST,,Buffalo,Buffalo,New York,United States,14209
+P0047625099,LACY,JESSICA,5/13/25,Home,380 FULTON ST,,Buffalo,Buffalo,New York,United States,14210
+P0047625250,LINNEBORN,KAITLIN,5/13/25,Home,68 MANOR OAK DR,,AMHERST,Buffalo,New York,United States,14228

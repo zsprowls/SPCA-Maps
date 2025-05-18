@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pet Pantry Client Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <style>
+        #map {
+            height: 800px;
+            width: 100%;
+        }
+        .controls {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        .slider-container {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            width: 80%;
+            max-width: 600px;
+        }
+        .filter-container {
+            margin-top: 15px;
+        }
+        .toggle-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .toggle-button {
+            padding: 8px 15px;
+            border: 2px solid #ccc;
+            border-radius: 20px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .toggle-button.active {
+            background: #4CAF50;
+            color: white;
+            border-color: #4CAF50;
+        }
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .view-toggle .toggle-button {
+            flex: 1;
+            text-align: center;
+        }
+        .date-range {
+            display: flex;
+            justify-content: space-between;
+            margin: 10px 0;
+            font-size: 14px;
+            color: #333;
+            font-weight: bold;
+        }
+        .date-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 5px;
+            font-size: 12px;
+            color: #666;
+        }
+        #dateSlider {
+            width: 100%;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="controls">
+        <div class="view-toggle">
+            <button class="toggle-button active" data-view="markers">Markers</button>
+            <button class="toggle-button" data-view="heatmap">Heat Map</button>
+        </div>
+    </div>
+    <div class="slider-container">
+        <label>Date Range:</label>
+        <div class="date-range">
+            <span id="startDate"></span>
+            <span id="currentDate"></span>
+        </div>
+        <input type="range" id="dateSlider" min="0" max="100" value="100">
+        <div class="date-labels">
+            <span id="startYear"></span>
+            <span>Present</span>
+        </div>
+    </div>
+
+    <script>
+        let map;
+        let markers = [];
+        let heatmap;
+        let allData = [];
+        let markerCluster;
+
+        // Erie County bounds
+        const erieCountyBounds = [
+            [42.4, -79.2],  // Southwest corner
+            [43.2, -78.4]   // Northeast corner
+        ];
+
+        // Initialize map
+        function initMap() {
+            map = L.map('map', {
+                maxBounds: erieCountyBounds,
+                minZoom: 9,
+                maxZoom: 18
+            }).setView([42.8864, -78.8784], 10); // Centered on Buffalo
+            
+            // Use CartoDB's positron style for a clean, minimal look
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 19
+            }).addTo(map);
+
+            // Add Erie County GeoJSON
+            fetch('https://raw.githubusercontent.com/OpenDataIS/erie-county-boundary/main/erie-county-boundary.geojson')
+                .then(response => response.json())
+                .then(data => {
+                    L.geoJSON(data, {
+                        style: {
+                            color: '#666',
+                            weight: 2,
+                            fillColor: '#e6e6e6',
+                            fillOpacity: 0.2
+                        }
+                    }).addTo(map);
+                })
+                .catch(error => console.error('Error loading Erie County boundary:', error));
+
+            markerCluster = L.markerClusterGroup();
+            map.addLayer(markerCluster);
+        }
+
+        // Load data from server
+        async function loadData() {
+            try {
+                console.log('Fetching data from server...');
+                const response = await fetch('/data');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                allData = await response.json();
+                console.log('Raw data from server:', allData);
+                
+                if (!Array.isArray(allData)) {
+                    console.error('Data is not an array:', allData);
+                    return;
+                }
+                
+                console.log('Number of data points:', allData.length);
+                if (allData.length > 0) {
+                    console.log('First data point:', allData[0]);
+                    console.log('Last data point:', allData[allData.length - 1]);
+                }
+                
+                // Set initial map view based on data
+                if (allData.length > 0) {
+                    const firstPoint = allData[0];
+                    console.log('Setting initial map view to:', firstPoint);
+                    map.setView([firstPoint.lat, firstPoint.lng], 10);
+                }
+                
+                updateMap();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                alert('Error loading data. Check console for details.');
+            }
+        }
+
+        // Update map based on current filters and view type
+        function updateMap() {
+            console.log('Updating map with data:', allData);
+            
+            // Clear existing layers
+            markers.forEach(marker => marker.remove());
+            markers = [];
+            if (heatmap) {
+                map.removeLayer(heatmap);
+                heatmap = null;
+            }
+            markerCluster.clearLayers();
+
+            if (!allData || allData.length === 0) {
+                console.log('No data available');
+                return;
+            }
+
+            // Get current view type
+            const viewType = document.querySelector('.view-toggle .toggle-button.active').dataset.view;
+            console.log('Current view type:', viewType);
+            
+            const dateValue = document.getElementById('dateSlider').value;
+            const maxDate = new Date(Math.max(...allData.map(d => new Date(d.date))));
+            const minDate = new Date(Math.min(...allData.map(d => new Date(d.date))));
+            const currentDate = new Date(minDate.getTime() + (maxDate - minDate) * (dateValue / 100));
+            console.log('Date range:', { minDate, currentDate, maxDate });
+
+            // Update date displays
+            document.getElementById('startDate').textContent = minDate.toLocaleDateString();
+            document.getElementById('currentDate').textContent = currentDate.toLocaleDateString();
+            document.getElementById('startYear').textContent = minDate.getFullYear().toString();
+
+            // Filter data by date only
+            const filteredData = allData.filter(point => {
+                const pointDate = new Date(point.date);
+                return pointDate <= currentDate;
+            });
+
+            console.log('Filtered data points:', filteredData.length);
+            if (filteredData.length > 0) {
+                console.log('First filtered point:', filteredData[0]);
+            }
+
+            if (viewType === 'markers') {
+                console.log('Adding markers...');
+                // Add markers
+                filteredData.forEach(point => {
+                    const marker = L.marker([point.lat, point.lng])
+                        .bindPopup(`
+                            <strong>${point.name}</strong><br>
+                            Address Type: ${point.address_type}<br>
+                            Date: ${point.date}<br>
+                            <a href="https://sms.petpoint.com/sms3/enhanced/person/${point.person_id}" target="_blank">View in PetPoint</a>
+                        `);
+                    markerCluster.addLayer(marker);
+                    markers.push(marker);
+                });
+                console.log('Added markers:', markers.length);
+            } else {
+                console.log('Creating heatmap...');
+                // Create heatmap
+                const heatData = filteredData.map(point => [point.lat, point.lng, 1]);
+                heatmap = L.heatLayer(heatData, {
+                    radius: 25,
+                    blur: 15,
+                    maxZoom: 10
+                }).addTo(map);
+                console.log('Heatmap data points:', heatData.length);
+            }
+        }
+
+        // Initialize everything
+        document.addEventListener('DOMContentLoaded', () => {
+            initMap();
+            loadData();
+
+            // Add event listeners for toggle buttons
+            document.querySelectorAll('.toggle-button').forEach(button => {
+                button.addEventListener('click', function() {
+                    console.log('Toggle button clicked:', this.dataset);
+                    
+                    // View type toggle
+                    document.querySelectorAll('.view-toggle .toggle-button').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                    
+                    console.log('Updating map after toggle...');
+                    updateMap();
+                });
+            });
+
+            // Add event listener for date slider
+            document.getElementById('dateSlider').addEventListener('input', function() {
+                console.log('Date slider value:', this.value);
+                updateMap();
+            });
+        });
+    </script>
+</body>
+</html> 
